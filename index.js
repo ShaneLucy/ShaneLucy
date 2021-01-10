@@ -17,7 +17,16 @@ let DATA = {
   currentProject: {
     name: "",
     url: "",
+    id: "",
   },
+};
+const getCurrentProject = async () => {
+  const response = await axios.get(
+    `https://api.github.com/users/shanelucy/events`
+  );
+
+  DATA.currentProject.name = response.data[0].repo.name;
+  DATA.currentProject.id = response.data[0].repo.id;
 };
 
 const getRepos = async () => {
@@ -32,18 +41,13 @@ const getRepos = async () => {
     repos.url = response.data[property].html_url;
     repos.description = response.data[property].description
       ? response.data[property].description
-      : "missing";
+      : "null";
+
+    if (response.data[property].id === DATA.currentProject.id) {
+      DATA.currentProject.url = response.data[property].html_url;
+    }
     DATA.repos.push({ ...repos });
   }
-};
-
-const getCurrentProject = async () => {
-  const response = await axios.get(
-    `https://api.github.com/users/shanelucy/events`
-  );
-
-  DATA.currentProject.name = response.data[0].repo.name;
-  DATA.currentProject.url = response.data[0].repo.url;
 };
 
 async function generateReadMe() {
@@ -55,9 +59,9 @@ async function generateReadMe() {
 }
 
 const create = async () => {
-  await getRepos();
-
   await getCurrentProject();
+
+  await getRepos();
 
   await generateReadMe();
 };
