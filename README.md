@@ -172,8 +172,8 @@
 <a href="https://uk.linkedin.com/in/shane-lucy-4735b616a">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br>
-Last updated Sunday, 10 January, 18:27 GMT
+<br><br><br>
+Last updated Sunday, 10 January, 18:53 GMT <img src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg">
 
 
 
