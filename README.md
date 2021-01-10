@@ -103,7 +103,7 @@
                 Svelte
             </td>
             <td>
-                
+                missing
             </td>
             </tr>
         <tr>
@@ -158,7 +158,7 @@
                 Python
             </td>
             <td>
-                
+                missing
             </td>
             </tr>
     </tbody>        
@@ -169,9 +169,10 @@
 
 <hr>
 <h4>My Socials:</h4>
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-Last updated Sunday, 10 January, 17:02 GMT
+<a href="https://uk.linkedin.com/in/shane-lucy-4735b616a">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+Last updated Sunday, 10 January, 17:08 GMT
 
 
 

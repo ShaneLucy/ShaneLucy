@@ -30,7 +30,9 @@ const getRepos = async () => {
     repos.name = response.data[property].name;
     repos.language = response.data[property].language;
     repos.url = response.data[property].html_url;
-    repos.description = response.data[property].description;
+    repos.description = response.data[property].description
+      ? response.data[property].description
+      : "missing";
     DATA.repos.push({ ...repos });
   }
 };
