@@ -1,0 +1,23 @@
+{
+  "name": "shanelucy",
+  "version": "1.0.0",
+  "description": "My personal repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaneLucy/ShaneLucy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaneLucy/ShaneLucy/issues"
+  },
+  "homepage": "https://github.com/ShaneLucy/ShaneLucy#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mustache": "^4.1.0"
+  }
+}

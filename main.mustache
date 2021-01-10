@@ -35,7 +35,7 @@
 <br><br><br>
 <hr>
 <h4>I am currently working on:</h4>
-<a href=https://api.github.com/repos/thmsgbrt/thmsgbrt>thmsgbrt&#x2F;thmsgbrt</a>
+<a href={{{currentProject.url}}}>{{currentProject.name}}</a>
 <br><br><br>
 
 <hr>
@@ -49,116 +49,19 @@
         </tr>
     </thead>
     <tbody>
+        {{#repos}}
         <tr>
             <td>
-                <a href=https://github.com/ShaneLucy/Clash-Royale-Clan-Tracker>Clash-Royale-Clan-Tracker</>    
+                <a href={{{url}}}>{{name}}</>    
             </td> 
             <td>
-                PHP
+                {{language}}
             </td>
             <td>
-                A website which automates and improves upon the process of manually logging member progress
-            </td>
-            </tr>
-        <tr>
-            <td>
-                <a href=https://github.com/ShaneLucy/Configurations>Configurations</>    
-            </td> 
-            <td>
-                HTML
-            </td>
-            <td>
-                My configurations and dotfiles
+                {{description}}
             </td>
             </tr>
-        <tr>
-            <td>
-                <a href=https://github.com/ShaneLucy/EloquentJs>EloquentJs</>    
-            </td> 
-            <td>
-                JavaScript
-            </td>
-            <td>
-                Exercises from the book Eloquent JavaScript
-            </td>
-            </tr>
-        <tr>
-            <td>
-                <a href=https://github.com/ShaneLucy/My-Portfolio>My-Portfolio</>    
-            </td> 
-            <td>
-                PHP
-            </td>
-            <td>
-                A portfolio website to showcase my work to date
-            </td>
-            </tr>
-        <tr>
-            <td>
-                <a href=https://github.com/ShaneLucy/pretty-good-playground>pretty-good-playground</>    
-            </td> 
-            <td>
-                Svelte
-            </td>
-            <td>
-                
-            </td>
-            </tr>
-        <tr>
-            <td>
-                <a href=https://github.com/ShaneLucy/recipe-app-api>recipe-app-api</>    
-            </td> 
-            <td>
-                Python
-            </td>
-            <td>
-                Source code for recipe api
-            </td>
-            </tr>
-        <tr>
-            <td>
-                <a href=https://github.com/ShaneLucy/ShaneLucy>ShaneLucy</>    
-            </td> 
-            <td>
-                
-            </td>
-            <td>
-                My personal repository
-            </td>
-            </tr>
-        <tr>
-            <td>
-                <a href=https://github.com/ShaneLucy/styled-scrollbar>styled-scrollbar</>    
-            </td> 
-            <td>
-                HTML
-            </td>
-            <td>
-                Restyled scrollbar 
-            </td>
-            </tr>
-        <tr>
-            <td>
-                <a href=https://github.com/ShaneLucy/to-do-list>to-do-list</>    
-            </td> 
-            <td>
-                PHP
-            </td>
-            <td>
-                A simple, private by default to do list web app
-            </td>
-            </tr>
-        <tr>
-            <td>
-                <a href=https://github.com/ShaneLucy/TriviaGame>TriviaGame</>    
-            </td> 
-            <td>
-                Python
-            </td>
-            <td>
-                
-            </td>
-            </tr>
+        {{/repos}}
     </tbody>        
 </table>
 <br><br><br>
@@ -169,7 +72,7 @@
 <h4>My Socials:</h4>
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-Last updated Sunday, 10 January, 16:58 GMT
+Last updated {{date}}
 
 
 
