@@ -32,12 +32,12 @@
     <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanelucy&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanelucy&layout=compact&bg_color=00000000">
 
 <br><br><br>
 <hr>
 <h4>I am currently working on:</h4>
-<a href=https://api.github.com/repos/ShaneLucy/ShaneLucy>ShaneLucy&#x2F;ShaneLucy</a>
+<a href=https://github.com/ShaneLucy/ShaneLucy>ShaneLucy&#x2F;ShaneLucy</a>
 <br><br><br>
 
 <hr>
@@ -103,7 +103,7 @@
                 Svelte
             </td>
             <td>
-                missing
+                null
             </td>
             </tr>
         <tr>
@@ -158,13 +158,13 @@
                 Python
             </td>
             <td>
-                missing
+                null
             </td>
             </tr>
     </tbody>        
 </table>
 <br><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=shanelucy&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=shanelucy&show_icons=true&bg_color=00000000">
 <br><br><br><br>
 
 <hr>
@@ -172,7 +172,8 @@
 <a href="https://uk.linkedin.com/in/shane-lucy-4735b616a">
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-Last updated Sunday, 10 January, 17:08 GMT
+<br>
+Last updated Sunday, 10 January, 18:27 GMT
 
 
 
