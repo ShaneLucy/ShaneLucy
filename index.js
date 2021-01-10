@@ -4,7 +4,6 @@ const MUSTACHE_MAIN_DIR = "./main.mustache";
 const axios = require("axios");
 
 let DATA = {
-  name: "Thomas",
   date: new Date().toLocaleDateString("en-GB", {
     weekday: "long",
     month: "long",
@@ -12,7 +11,7 @@ let DATA = {
     hour: "numeric",
     minute: "numeric",
     timeZoneName: "short",
-    timeZone: "Europe/London",
+    timeZone: "Europe/London", //???
   }),
   repos: [],
   currentProject: {
