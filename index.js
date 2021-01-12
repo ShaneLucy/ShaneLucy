@@ -36,7 +36,7 @@ const getHeader = async () => {
     );
 
     DATA.headerUrl = response.data[0].hdurl;
-    DATA.headerDesc = "Fig 1 - " + response.data[0].title;
+    DATA.headerDesc = response.data[0].title;
   } catch (error) {
     DATA.headerError = error.message;
   }
