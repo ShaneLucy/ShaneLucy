@@ -4,6 +4,9 @@ const MUSTACHE_MAIN_DIR = "./main.mustache";
 const axios = require("axios");
 
 let DATA = {
+  headerUrl: "",
+  headerDesc: "",
+  headerError: "",
   date: new Date().toLocaleDateString("en-GB", {
     weekday: "long",
     month: "long",
@@ -14,39 +17,69 @@ let DATA = {
     timeZone: "Europe/London", //???
   }),
   repos: [],
+  repoError: "",
+  thProject: "",
+  thLanguage: "",
+  thDescription: "",
   currentProject: {
     name: "",
     url: "",
     id: "",
+    error: "",
   },
 };
-const getCurrentProject = async () => {
-  const response = await axios.get(
-    `https://api.github.com/users/shanelucy/events`
-  );
 
-  DATA.currentProject.name = response.data[0].repo.name;
-  DATA.currentProject.id = response.data[0].repo.id;
+const getHeader = async () => {
+  try {
+    const response = await axios.get(
+      `https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&count=1`
+    );
+
+    DATA.headerUrl = response.data[0].hdurl;
+    DATA.headerDesc = "Fig 1 - " + response.data[0].title;
+  } catch (error) {
+    DATA.headerError = error.message;
+  }
+};
+
+const getCurrentProject = async () => {
+  try {
+    const response = await axios.get(
+      `https://api.github.com/users/shanelucy/events`
+    );
+
+    DATA.currentProject.name = response.data[0].repo.name;
+    DATA.currentProject.id = response.data[0].repo.id;
+  } catch (error) {
+    DATA.currentProject.error = error.message;
+  }
 };
 
 const getRepos = async () => {
-  repos = [];
-  const response = await axios.get(
-    `https://api.github.com/users/shanelucy/repos`
-  );
+  try {
+    repos = [];
+    const response = await axios.get(
+      `https://api.github.com/users/shanelucy/repos`
+    );
 
-  for (const property in response.data) {
-    repos.name = response.data[property].name;
-    repos.language = response.data[property].language;
-    repos.url = response.data[property].html_url;
-    repos.description = response.data[property].description
-      ? response.data[property].description
-      : "null";
+    DATA.thProject = "Project";
+    DATA.thLanguage = "Language";
+    DATA.thDescription = "Description";
 
-    if (response.data[property].id === DATA.currentProject.id) {
-      DATA.currentProject.url = response.data[property].html_url;
-    }
-    DATA.repos.push({ ...repos });
+    DATA.repos = response.data.map((x) => {
+      if (x.id === DATA.currentProject.id) {
+        DATA.currentProject.url = x.html_url;
+      }
+
+      return (DATA.repos = {
+        name: x.name ? x.name : null,
+        language: x.language ? x.language : "null",
+        url: x.url ? x.url : "null",
+        description: x.description ? x.description : "null",
+      });
+    });
+  } catch (error) {
+    DATA.reposError = error.message;
   }
 };
 
@@ -59,6 +92,8 @@ async function generateReadMe() {
 }
 
 const create = async () => {
+  await getHeader();
+
   await getCurrentProject();
 
   await getRepos();
