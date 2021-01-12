@@ -173,7 +173,7 @@
     <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <br><br><br>
-Last updated Monday, 11 January, 12:21 GMT <img src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg">
+Last updated Tuesday, 12 January, 00:41 GMT <img src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg">
 
 
 
