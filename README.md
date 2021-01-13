@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1605/EtaCore_Ebersole_932.jpg"
+  src="https://apod.nasa.gov/apod/image/1601/lorand_fenyes_dipper_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Clouds of the Carina Nebula</figcaption>
+<figcaption>Big Dipper, Deep Sky</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 13 January, 00:47 GMT
+Last updated Wednesday, 13 January, 12:30 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
