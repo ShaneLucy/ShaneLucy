@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1912/AnnularEclipse_Pinski_1522.jpg"
+  src="https://apod.nasa.gov/apod/image/1312/intens_comb6_zea_960.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>An Annular Solar Eclipse over New Mexico</figcaption>
+<figcaption>Gamma-Ray Earth and Sky</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 16 January, 00:53 GMT
+Last updated Saturday, 16 January, 12:26 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
