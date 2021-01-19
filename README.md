@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src=""
+  src="https://apod.nasa.gov/apod/image/1804/SevenStrongSky_Makurin_960.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Approaching Pluto</figcaption>
+<figcaption>The Milky Way over the Seven Strong Men Rock Formations</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -58,70 +58,70 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://api.github.com/repos/ShaneLucy/Clash-Royale-Clan-Tracker">Clash-Royale-Clan-Tracker</a>
+        <a href="https://github.com/ShaneLucy/Clash-Royale-Clan-Tracker">Clash-Royale-Clan-Tracker</a>
       </td>
       <td>PHP</td>
       <td>A website which automates and improves upon the process of manually logging member progress</td>
     </tr>
     <tr>
       <td>
-        <a href="https://api.github.com/repos/ShaneLucy/Configurations">Configurations</a>
+        <a href="https://github.com/ShaneLucy/Configurations">Configurations</a>
       </td>
       <td>HTML</td>
       <td>My configurations and dotfiles</td>
     </tr>
     <tr>
       <td>
-        <a href="https://api.github.com/repos/ShaneLucy/EloquentJs">EloquentJs</a>
+        <a href="https://github.com/ShaneLucy/EloquentJs">EloquentJs</a>
       </td>
       <td>JavaScript</td>
       <td>Exercises from the book Eloquent JavaScript</td>
     </tr>
     <tr>
       <td>
-        <a href="https://api.github.com/repos/ShaneLucy/My-Portfolio">My-Portfolio</a>
+        <a href="https://github.com/ShaneLucy/My-Portfolio">My-Portfolio</a>
       </td>
       <td>PHP</td>
       <td>A portfolio website to showcase my work to date</td>
     </tr>
     <tr>
       <td>
-        <a href="https://api.github.com/repos/ShaneLucy/pretty-good-playground">pretty-good-playground</a>
+        <a href="https://github.com/ShaneLucy/pretty-good-playground">pretty-good-playground</a>
       </td>
       <td>Svelte</td>
       <td>null</td>
     </tr>
     <tr>
       <td>
-        <a href="https://api.github.com/repos/ShaneLucy/recipe-app-api">recipe-app-api</a>
+        <a href="https://github.com/ShaneLucy/recipe-app-api">recipe-app-api</a>
       </td>
       <td>Python</td>
       <td>Source code for recipe api</td>
     </tr>
     <tr>
       <td>
-        <a href="https://api.github.com/repos/ShaneLucy/ShaneLucy">ShaneLucy</a>
+        <a href="https://github.com/ShaneLucy/ShaneLucy">ShaneLucy</a>
       </td>
       <td>HTML</td>
       <td>My personal repository</td>
     </tr>
     <tr>
       <td>
-        <a href="https://api.github.com/repos/ShaneLucy/styled-scrollbar">styled-scrollbar</a>
+        <a href="https://github.com/ShaneLucy/styled-scrollbar">styled-scrollbar</a>
       </td>
       <td>HTML</td>
       <td>Restyled scrollbar </td>
     </tr>
     <tr>
       <td>
-        <a href="https://api.github.com/repos/ShaneLucy/to-do-list">to-do-list</a>
+        <a href="https://github.com/ShaneLucy/to-do-list">to-do-list</a>
       </td>
       <td>PHP</td>
       <td>A simple, private by default to do list web app</td>
     </tr>
     <tr>
       <td>
-        <a href="https://api.github.com/repos/ShaneLucy/TriviaGame">TriviaGame</a>
+        <a href="https://github.com/ShaneLucy/TriviaGame">TriviaGame</a>
       </td>
       <td>Python</td>
       <td>null</td>
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 19 January, 12:30 GMT
+Last updated Tuesday, 19 January, 21:14 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
