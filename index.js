@@ -74,7 +74,7 @@ const getRepos = async () => {
       return (DATA.repos = {
         name: x.name ? x.name : null,
         language: x.language ? x.language : "null",
-        url: x.url ? x.url : "null",
+        url: x.url ? x.html_url : "null",
         description: x.description ? x.description : "null",
       });
     });
