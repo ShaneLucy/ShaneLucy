@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9904/surv3_apollo12_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1808/m2018_08_06Adp.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Apollo 12: Surveyor 3 and Intrepid</figcaption>
+<figcaption>Close Mars</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 20 January, 00:55 GMT
+Last updated Wednesday, 20 January, 12:30 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
