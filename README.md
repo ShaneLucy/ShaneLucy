@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1808/m2018_08_06Adp.jpg"
+  src="https://apod.nasa.gov/apod/image/hbjet_may_eso_big.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Close Mars</figcaption>
+<figcaption>A Dust Jet From Hale-Bopp</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 20 January, 12:30 GMT
+Last updated Thursday, 21 January, 00:54 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
