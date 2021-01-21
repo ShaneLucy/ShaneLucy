@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/hbjet_may_eso_big.gif"
+  src="https://apod.nasa.gov/apod/image/2005/LDN1471_HubbleSchmidt_1024.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>A Dust Jet From Hale-Bopp</figcaption>
+<figcaption>LDN 1471: A Windblown Star Cavity</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 21 January, 00:54 GMT
+Last updated Thursday, 21 January, 12:30 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
