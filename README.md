@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/2005/LDN1471_HubbleSchmidt_1024.jpg"
+  src="https://apod.nasa.gov/apod/image/1303/m42_wittich_1024.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>LDN 1471: A Windblown Star Cavity</figcaption>
+<figcaption>M42: Inside the Orion Nebula</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 21 January, 12:30 GMT
+Last updated Friday, 22 January, 00:53 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
