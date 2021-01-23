@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/europa1_gal_big.jpg"
+  src="https://apod.nasa.gov/apod/image/9810/m27_vlt_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Galileo Explores Europa</figcaption>
+<figcaption>M27: Not A Comet</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 23 January, 00:53 GMT
+Last updated Saturday, 23 January, 12:27 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
