@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9810/m27_vlt_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1805/AuroraCrater_ISS_4256.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>M27: Not A Comet</figcaption>
+<figcaption>Aurora and Manicouagan Crater from the Space Station</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 23 January, 12:27 GMT
+Last updated Sunday, 24 January, 00:52 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
