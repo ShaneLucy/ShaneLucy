@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1810/CTA_inauguratedSarahBrands.jpg"
+  src="https://apod.nasa.gov/apod/image/0605/ipolar_garlick.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Cherenkov Telescope at Sunset</figcaption>
+<figcaption>An Intermediate Polar Binary System</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 25 January, 00:52 GMT
+Last updated Monday, 25 January, 12:29 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
