@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1807/Capture13_07_2018_2_09_09AM_PK.jpg"
+  src="https://apod.nasa.gov/apod/image/1810/CTA_inauguratedSarahBrands.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>A Nibble on the Sun</figcaption>
+<figcaption>Cherenkov Telescope at Sunset</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 24 January, 12:28 GMT
+Last updated Monday, 25 January, 00:52 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
