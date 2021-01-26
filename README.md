@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0605/ipolar_garlick.jpg"
+  src="https://apod.nasa.gov/apod/image/0509/IC1396_demartin_f.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>An Intermediate Polar Binary System</figcaption>
+<figcaption>IC 1396 in Cepheus</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 25 January, 12:29 GMT
+Last updated Tuesday, 26 January, 00:24 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
