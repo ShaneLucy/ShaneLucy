@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0509/IC1396_demartin_f.jpg"
+  src="https://apod.nasa.gov/apod/image/1711/BigDipperMt2_Cullen_1365.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>IC 1396 in Cepheus</figcaption>
+<figcaption>Big Dipper over Pyramid Mountain</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 26 January, 00:24 GMT
+Last updated Tuesday, 26 January, 12:11 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
