@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1711/BigDipperMt2_Cullen_1365.jpg"
+  src="https://apod.nasa.gov/apod/image/1406/redgreenflash_lopez_1548.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Big Dipper over Pyramid Mountain</figcaption>
+<figcaption>A Green Flash from the Sun</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -40,7 +40,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/ShaneLucy">ShaneLucy&#x2F;ShaneLucy</a>
+<a href="https://github.com/ShaneLucy/pretty-good-playground">ShaneLucy&#x2F;pretty-good-playground</a>
 
 <br /><br /><br />
 
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 26 January, 12:11 GMT
+Last updated Wednesday, 27 January, 00:22 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
