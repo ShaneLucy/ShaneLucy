@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1406/redgreenflash_lopez_1548.jpg"
+  src="https://apod.nasa.gov/apod/image/1812/CometWirtanen_Merzlyakov_714.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>A Green Flash from the Sun</figcaption>
+<figcaption>Comet Wirtanen Passes by the Earth</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 27 January, 00:22 GMT
+Last updated Wednesday, 27 January, 12:12 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
