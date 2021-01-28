@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1812/CometWirtanen_Merzlyakov_714.jpg"
+  src="https://apod.nasa.gov/apod/image/1608/IoOverJupiter_Cassini_999.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Comet Wirtanen Passes by the Earth</figcaption>
+<figcaption>Io: Moon over Jupiter</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 27 January, 12:12 GMT
+Last updated Thursday, 28 January, 00:24 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
