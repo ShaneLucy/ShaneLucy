@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9909/30dor_hst_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0201/blackaurora_curtis_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Massive Stars Of 30 Doradus</figcaption>
+<figcaption>The Secret of the Black Aurora</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 28 January, 12:11 GMT
+Last updated Friday, 29 January, 00:23 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
