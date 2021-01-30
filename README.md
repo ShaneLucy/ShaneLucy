@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/titan_hst.gif"
+  src="https://apod.nasa.gov/apod/image/0306/milkymoon_casado_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>A Glimpse of Titan&#39;s Surface</figcaption>
+<figcaption>The Milky Way Behind an Eclipsed Moon</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 29 January, 12:11 GMT
+Last updated Saturday, 30 January, 00:23 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
