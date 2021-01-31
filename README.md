@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9709/halebopp_swuis.gif"
+  src="https://apod.nasa.gov/apod/image/1902/heic1901aTriangulum.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Comet Hale-Bopp Outbound</figcaption>
+<figcaption>The Stars of the Triangulum Galaxy</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 31 January, 00:24 GMT
+Last updated Sunday, 31 January, 12:11 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
