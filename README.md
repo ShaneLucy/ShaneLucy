@@ -2,12 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0607/husbandhillpan_spirit_big.jpg"
+  src="https://apod.nasa.gov/apod/image/9709/halebopp_swuis.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The View toward Husband Hill on Mars 
-</figcaption>
+<figcaption>Comet Hale-Bopp Outbound</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -144,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 30 January, 12:11 GMT
+Last updated Sunday, 31 January, 00:24 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
