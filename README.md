@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1902/heic1901aTriangulum.jpg"
+  src="https://apod.nasa.gov/apod/image/1602/Soul_Colombari_1824.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Stars of the Triangulum Galaxy</figcaption>
+<figcaption>IC 1848: The Soul Nebula</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 31 January, 12:11 GMT
+Last updated Monday, 1 February, 00:24 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
