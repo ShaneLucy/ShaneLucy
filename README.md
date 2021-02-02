@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9710/DEML316_williams.gif"
+  src="https://apod.nasa.gov/apod/image/2006/BeadMountains_Letian_3000.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Colliding Supernova Remnants</figcaption>
+<figcaption>Moon Mountains Magnified during Ring of Fire Eclipse</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 2 February, 00:24 GMT
+Last updated Tuesday, 2 February, 12:12 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
