@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9804/vik1site1_mgs_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0004/aurora_safar_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Mars: Looking For Viking</figcaption>
+<figcaption>Aurora in Red and Yellow</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -143,7 +143,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 3 February, 00:20 GMT
+Last updated Wednesday, 3 February, 12:11 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
