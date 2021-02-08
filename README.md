@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9905/ngc6872_vlt_big.jpg"
+  src=""
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>NGC 6872: A Stretched Spiral</figcaption>
+<figcaption>Galaxy Collisions: Simulation vs Observations</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 8 February, 00:18 GMT
+Last updated Monday, 8 February, 12:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
