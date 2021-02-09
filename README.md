@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1003/colddust_planck_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1404/ngc2841_hstsubarugendler_3500.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Nearby Milky Way in Cold Dust</figcaption>
+<figcaption>Massive Nearby Spiral Galaxy NGC 2841</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 9 February, 00:18 GMT
+Last updated Tuesday, 9 February, 12:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
