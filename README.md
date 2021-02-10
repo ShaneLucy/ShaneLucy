@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1404/ngc2841_hstsubarugendler_3500.jpg"
+  src="https://apod.nasa.gov/apod/image/0810/s171_v1_fernandez50.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Massive Nearby Spiral Galaxy NGC 2841</figcaption>
+<figcaption>Sharpless 171</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 9 February, 12:10 GMT
+Last updated Wednesday, 10 February, 00:18 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
