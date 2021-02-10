@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0810/s171_v1_fernandez50.jpg"
+  src="https://apod.nasa.gov/apod/image/9711/mgs_close1_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Sharpless 171</figcaption>
+<figcaption>Mars: A Sheer Close-up</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 10 February, 00:18 GMT
+Last updated Wednesday, 10 February, 12:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
