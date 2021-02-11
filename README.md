@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0401/w2flyby_stardust_big.gif"
+  src="https://apod.nasa.gov/apod/image/0302/JupmoonAnimation_higgins.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>STARDUST Flyby of Comet Wild 2</figcaption>
+<figcaption>When Moons and Shadows Dance</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 11 February, 00:18 GMT
+Last updated Thursday, 11 February, 12:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
