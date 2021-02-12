@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0302/JupmoonAnimation_higgins.gif"
+  src="https://apod.nasa.gov/apod/image/1912/TaurusAbolfath.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>When Moons and Shadows Dance</figcaption>
+<figcaption>Pleiades to Hyades</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 11 February, 12:10 GMT
+Last updated Friday, 12 February, 00:18 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
