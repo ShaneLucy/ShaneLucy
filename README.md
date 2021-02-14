@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9712/ngc6826_hst_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1507/trifid_spitzerR.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>NGC 6826: The Blinking Eye</figcaption>
+<figcaption>Infrared Trifid</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -40,7 +40,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/woodhill">ShaneLucy&#x2F;woodhill</a>
+<a href="https://github.com/ShaneLucy/pretty-good-playground">ShaneLucy&#x2F;pretty-good-playground</a>
 
 <br /><br /><br />
 
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 14 February, 00:19 GMT
+Last updated Sunday, 14 February, 12:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
