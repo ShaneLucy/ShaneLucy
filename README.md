@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0501/Ve2004_tezel_f.jpg"
+  src="https://apod.nasa.gov/apod/image/9812/deepspace1_jpl_big.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>S is for Venus</figcaption>
+<figcaption>Deep Space 1</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -102,7 +102,7 @@
       <td>
         <a href="https://github.com/ShaneLucy/ShaneLucy">ShaneLucy</a>
       </td>
-      <td>HTML</td>
+      <td>Mustache</td>
       <td>My personal repository</td>
     </tr>
     <tr>
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 17 February, 12:10 GMT
+Last updated Thursday, 18 February, 00:20 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
