@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1101/n6946_block.jpg"
+  src="https://apod.nasa.gov/apod/image/0404/ringam_hst_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Fireworks Galaxy NGC 6946</figcaption>
+<figcaption>Ring Galaxy AM 0644-741 from Hubble</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 18 February, 12:10 GMT
+Last updated Friday, 19 February, 00:18 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
