@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1506/vermeer_stevenson_3000.jpg"
+  src="https://apod.nasa.gov/apod/image/0703/tsemoon_Gartstein_f.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>APOD is 20 Years Old Today</figcaption>
+<figcaption>Solar Eclipse from the Moon</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 19 February, 12:10 GMT
+Last updated Saturday, 20 February, 00:18 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
