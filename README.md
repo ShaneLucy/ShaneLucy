@@ -2,11 +2,12 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1702/Tethys_Cassini_1020.jpg"
+  src="https://apod.nasa.gov/apod/image/9702/halebopp1_oat_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Odysseus Crater on Tethys</figcaption>
+<figcaption>Comet Hale-Bopp and the Dumbbell Nebula
+Credit and Copyright:</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +151,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 22 February, 00:19 GMT
+Last updated Monday, 22 February, 12:08 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
