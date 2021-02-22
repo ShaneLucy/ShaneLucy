@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1301/DarkTowerGoldman.jpg"
+  src="https://apod.nasa.gov/apod/image/1702/Tethys_Cassini_1020.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Dark Tower in Scorpius</figcaption>
+<figcaption>Odysseus Crater on Tethys</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 21 February, 12:10 GMT
+Last updated Monday, 22 February, 00:19 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
