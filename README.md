@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/grb3map.gif"
+  src="https://apod.nasa.gov/apod/image/1801/LMC_RGBNB-Don-Josep5-Cc2048.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Gamma Ray Bursts from the Unknown</figcaption>
+<figcaption>Clouds in the LMC</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 24 February, 12:11 GMT
+Last updated Thursday, 25 February, 00:18 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
