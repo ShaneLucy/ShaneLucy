@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1801/LMC_RGBNB-Don-Josep5-Cc2048.jpg"
+  src="https://apod.nasa.gov/apod/image/0210/fomalhaut_atc_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Clouds in the LMC</figcaption>
+<figcaption>Fomalhaut Dust Disk Indicates Planets</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 25 February, 00:18 GMT
+Last updated Thursday, 25 February, 12:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
