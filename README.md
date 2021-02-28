@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0607/4snr_cxc_f.jpg"
+  src="https://apod.nasa.gov/apod/image/1408/NGC6744goldman.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Four Supernova Remnants</figcaption>
+<figcaption>Spiral Galaxy NGC 6744</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 28 February, 00:20 GMT
+Last updated Sunday, 28 February, 12:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
