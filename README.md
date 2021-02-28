@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1003/equinoxp1_orman_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0607/4snr_cxc_f.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Equinox + 1</figcaption>
+<figcaption>Four Supernova Remnants</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 27 February, 12:10 GMT
+Last updated Sunday, 28 February, 00:20 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
