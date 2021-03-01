@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0701/ngc602_hst_large.jpg"
+  src="https://apod.nasa.gov/apod/image/0001/earth_vg1.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>NGC 602 and Beyond</figcaption>
+<figcaption>The Largest Rock Known</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 1 March, 00:20 GMT
+Last updated Monday, 1 March, 12:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
