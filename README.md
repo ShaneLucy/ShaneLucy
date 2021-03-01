@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1408/NGC6744goldman.jpg"
+  src="https://apod.nasa.gov/apod/image/0701/ngc602_hst_large.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Spiral Galaxy NGC 6744</figcaption>
+<figcaption>NGC 602 and Beyond</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 28 February, 12:10 GMT
+Last updated Monday, 1 March, 00:20 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
