@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1306/m31_comolli_2193.jpg"
+  src="https://apod.nasa.gov/apod/image/1211/Total_Solar_Eclipse_2012Cooper.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>M31: The Andromeda Galaxy</figcaption>
+<figcaption>Moon Shadow Sequence</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 2 March, 00:16 GMT
+Last updated Tuesday, 2 March, 12:08 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
