@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1211/Total_Solar_Eclipse_2012Cooper.jpg"
+  src="https://apod.nasa.gov/apod/image/1607/m2d9_hubble_985.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Moon Shadow Sequence</figcaption>
+<figcaption>M2-9: Wings of a Butterfly Nebula</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 2 March, 12:08 GMT
+Last updated Wednesday, 3 March, 00:19 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
