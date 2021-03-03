@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1607/m2d9_hubble_985.jpg"
+  src="https://apod.nasa.gov/apod/image/0207/proximacen1_aao_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>M2-9: Wings of a Butterfly Nebula</figcaption>
+<figcaption>Proxima Centauri: The Closest Star</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 3 March, 00:19 GMT
+Last updated Wednesday, 3 March, 12:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
