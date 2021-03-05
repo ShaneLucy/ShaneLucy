@@ -2,11 +2,12 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/2102/SunPillar_Cohea_3400.jpg"
+  src="https://apod.nasa.gov/apod/image/9704/grb970228a_hst_big.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Sun Pillar with Upper Tangent Arc</figcaption>
+<figcaption>GRB970228: What&#39;s There? 
+Credit:</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +151,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 4 March, 12:10 GMT
+Last updated Friday, 5 March, 00:19 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
