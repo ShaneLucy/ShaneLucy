@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0211/annefrank_stardust_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1405/EtaAquaridMW_taylor.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Asteroid Annefrank</figcaption>
+<figcaption>Halley Dust and Milky Way</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 8 March, 00:20 GMT
+Last updated Monday, 8 March, 12:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
