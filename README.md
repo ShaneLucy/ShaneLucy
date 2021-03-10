@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0209/venus1_gal_big.gif"
+  src="https://apod.nasa.gov/apod/image/9703/halebopp5_aac_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Venus: Just Passing By</figcaption>
+<figcaption>Comet Hale-Bopp Over Val Parola Pass</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 9 March, 12:10 GMT
+Last updated Wednesday, 10 March, 00:19 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
