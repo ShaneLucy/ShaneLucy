@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0207/casA_hst_big.jpg"
+  src="https://apod.nasa.gov/apod/image/2002/Betelgeuse2019_ESO_1280.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Recycling Cassiopeia A</figcaption>
+<figcaption>The Changing Surface of Fading Betelgeuse</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 10 March, 12:10 GMT
+Last updated Thursday, 11 March, 00:19 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
