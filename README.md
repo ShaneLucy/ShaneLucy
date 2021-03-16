@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1208/m72_hst_4114.jpg"
+  src="https://apod.nasa.gov/apod/image/1703/Cygnus-New-L.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>M72: A Globular Cluster of Stars</figcaption>
+<figcaption>Central Cygnus Skyscape</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 15 March, 12:10 GMT
+Last updated Tuesday, 16 March, 00:19 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
