@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1703/Cygnus-New-L.jpg"
+  src="https://apod.nasa.gov/apod/image/0008/hd38529art_cook.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Central Cygnus Skyscape</figcaption>
+<figcaption>Other Worlds and HD 38529</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 16 March, 00:19 GMT
+Last updated Tuesday, 16 March, 12:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
