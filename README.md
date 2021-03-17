@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9812/eithe_981211_big.gif"
+  src="https://apod.nasa.gov/apod/image/0704/sun3d_stereo_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Driving To The Sun</figcaption>
+<figcaption>The Sun in Three Dimensions</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 17 March, 00:20 GMT
+Last updated Wednesday, 17 March, 12:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
