@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0103/hcg62_cxc_big.jpg"
+  src="https://apod.nasa.gov/apod/image/9712/m2-9_hst_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>X-Rays From HCG 62</figcaption>
+<figcaption>M2-9: Wings of a Butterfly Nebula</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 23 March, 00:20 GMT
+Last updated Tuesday, 23 March, 12:16 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
