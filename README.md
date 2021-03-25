@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0112/ngc6822_hst_big.jpg"
+  src="https://apod.nasa.gov/apod/image/hyakutake_18Apr_vw.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Star Forming Region Hubble-V</figcaption>
+<figcaption>The Tails of Comet Hyakutake</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 24 March, 12:27 GMT
+Last updated Thursday, 25 March, 00:51 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
