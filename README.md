@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1701/ugc1810_LRGB_2Heutz.jpg"
+  src="https://apod.nasa.gov/apod/image/2001/NGC6752LRGBcrop.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Peculiar Galaxies of Arp 273</figcaption>
+<figcaption>Globular Star Cluster NGC 6752</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 28 March, 13:17 BST
+Last updated Monday, 29 March, 01:39 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
