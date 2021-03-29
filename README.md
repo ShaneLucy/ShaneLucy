@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/2001/NGC6752LRGBcrop.jpg"
+  src="https://apod.nasa.gov/apod/image/1410/smFriedman_shivak2192_final.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Globular Star Cluster NGC 6752</figcaption>
+<figcaption>AR 2192: Giant on the Sun</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 29 March, 01:39 BST
+Last updated Monday, 29 March, 13:17 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
