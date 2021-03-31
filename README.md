@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1701/vdB142_L(HaR)GB-finalLeshin2048.jpg"
+  src="https://apod.nasa.gov/apod/image/9901/marswind_mgs_big.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Elephant&#39;s Trunk Nebula in Cepheus</figcaption>
+<figcaption>The Wind on Mars</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -150,7 +150,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 31 March, 01:34 BST
+Last updated Wednesday, 31 March, 13:18 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
