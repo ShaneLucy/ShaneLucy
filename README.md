@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1810/M015-2_Hubl.jpg"
+  src="https://apod.nasa.gov/apod/image/1507/MWAurora_hang_4906.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>M15: Dense Globular Star Cluster</figcaption>
+<figcaption>Milky Way and Aurora over Antarctica</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 5 April, 13:18 BST
+Last updated Tuesday, 6 April, 01:40 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
