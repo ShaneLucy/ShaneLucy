@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0506/m27_metcalf_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0105/venusland_magellan_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>M27: The Dumbbell Nebula</figcaption>
+<figcaption>One Hundred-Kilometer Terrain on Venus</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -75,7 +75,7 @@
         <a href="https://github.com/ShaneLucy/crypto-tokens">crypto-tokens</a>
       </td>
       <td>Vue</td>
-      <td>null</td>
+      <td>A basic website displaying crypto currency information from coingecko</td>
     </tr>
     <tr>
       <td>
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 6 April, 13:16 BST
+Last updated Wednesday, 7 April, 01:39 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
