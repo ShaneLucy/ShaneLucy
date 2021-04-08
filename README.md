@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/IsaacNewton_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1102/northamerica_spitzer_3000.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Isaac Newton Explains the Solar System</figcaption>
+<figcaption>The North America Nebula in Infrared</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 8 April, 01:42 BST
+Last updated Thursday, 8 April, 13:18 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
