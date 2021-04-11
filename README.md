@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1603/moondog_saarloos_1600.jpg"
+  src="https://apod.nasa.gov/apod/image/0812/MtWilson-60-InchDec01.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Alaskan Moondogs</figcaption>
+<figcaption>The 60-inch Reflector</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 10 April, 13:17 BST
+Last updated Sunday, 11 April, 01:42 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
