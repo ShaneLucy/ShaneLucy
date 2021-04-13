@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9805/comet1998_soho_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0502/v838monOct2004_hst_f.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Discovery Image: Comet SOHO (1998 J1)</figcaption>
+<figcaption>V838 Mon: Light Echo Update</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 13 April, 01:42 BST
+Last updated Tuesday, 13 April, 13:18 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
