@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0502/v838monOct2004_hst_f.jpg"
+  src="https://apod.nasa.gov/apod/image/0812/sketchMV_kelleghan1.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>V838 Mon: Light Echo Update</figcaption>
+<figcaption>Lunar Diamond</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -40,7 +40,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="">NeutrinosPlatform&#x2F;cordova-plugin-document-scanner</a>
+<a href="">trekhleb&#x2F;javascript-algorithms</a>
 
 <br /><br /><br />
 
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 13 April, 13:18 BST
+Last updated Wednesday, 14 April, 01:37 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
