@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1001/EpsilonAurigae_wong.jpg"
+  src="https://apod.nasa.gov/apod/image/9904/skimars_mgs_big.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Mystery of the Fading Star</figcaption>
+<figcaption>Ski Mars!</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 17 April, 01:38 BST
+Last updated Saturday, 17 April, 13:16 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
