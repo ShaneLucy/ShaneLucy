@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9909/balquasar_dposs_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1001/EpsilonAurigae_wong.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Mystery Object Explained</figcaption>
+<figcaption>The Mystery of the Fading Star</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 16 April, 13:17 BST
+Last updated Saturday, 17 April, 01:38 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
