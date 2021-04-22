@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0104/grb010222_cxc_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0901/gcenter_hstspitzer_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>GRB010222: Gamma-Ray Burst, X-Ray Afterglow</figcaption>
+<figcaption>The Galactic Core in Infrared</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -40,7 +40,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="">trekhleb&#x2F;javascript-algorithms</a>
+<a href="">alexeymezenin&#x2F;laravel-best-practices</a>
 
 <br /><br /><br />
 
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 21 April, 13:18 BST
+Last updated Thursday, 22 April, 01:40 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
