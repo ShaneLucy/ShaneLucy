@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0901/gcenter_hstspitzer_big.jpg"
+  src="https://apod.nasa.gov/apod/image/9907/peteconrad_c1.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Galactic Core in Infrared</figcaption>
+<figcaption>Charles P. Conrad, Jr. 1930-1999</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 22 April, 01:40 BST
+Last updated Thursday, 22 April, 13:18 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
