@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0402/hiZsn_hubble_label.jpg"
+  src="https://apod.nasa.gov/apod/image/0812/LickMoonrise_baldridge.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Rumors of a Strange Universe</figcaption>
+<figcaption>Lick Observatory Moonrise</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 23 April, 13:18 BST
+Last updated Saturday, 24 April, 01:40 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
