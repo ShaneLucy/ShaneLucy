@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0103/equinoxp1_orman.jpg"
+  src="https://apod.nasa.gov/apod/image/1510/IC1871_HSTwager.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Equinox + 1</figcaption>
+<figcaption>IC 1871: Inside the Soul Nebula</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 30 April, 01:31 BST
+Last updated Friday, 30 April, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
