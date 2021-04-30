@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1702/QuadQuasarLens_Hubble_2020.jpg"
+  src="https://apod.nasa.gov/apod/image/0103/equinoxp1_orman.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Four Quasar Images Surround a Galaxy Lens</figcaption>
+<figcaption>Equinox + 1</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 29 April, 13:15 BST
+Last updated Friday, 30 April, 01:31 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
