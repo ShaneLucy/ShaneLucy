@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0101/m8_kitahara_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0403/equinoxp1_orman.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>M8: In the Center of the Lagoon Nebula</figcaption>
+<figcaption>Equinox + 1</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 1 May, 01:33 BST
+Last updated Saturday, 1 May, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
