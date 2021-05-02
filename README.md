@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0403/equinoxp1_orman.jpg"
+  src="https://apod.nasa.gov/apod/image/0103/hcg62_cxc_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Equinox + 1</figcaption>
+<figcaption>X-Rays From HCG 62</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 1 May, 13:14 BST
+Last updated Sunday, 2 May, 01:36 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
