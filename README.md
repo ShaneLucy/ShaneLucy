@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/2009/SunsetMonths_Vanzella_2400.jpg"
+  src="https://apod.nasa.gov/apod/image/0608/marsandjets_miller_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Equinox in the Sky</figcaption>
+<figcaption>Sandy Gas Jets Hypothesized on Mars</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 2 May, 13:14 BST
+Last updated Monday, 3 May, 01:34 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
