@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1702/ssc2017-trappist1_Med.jpg"
+  src="https://apod.nasa.gov/apod/image/0002/jcaesar_coin.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Seven Worlds for TRAPPIST-1</figcaption>
+<figcaption>Julius Caesar and Leap Days</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 5 May, 13:11 BST
+Last updated Thursday, 6 May, 01:22 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
