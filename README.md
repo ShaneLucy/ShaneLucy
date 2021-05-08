@@ -2,12 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9612/m3_cfa_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0102/3c294_chandra_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Globular Cluster M3
-Credit and Copyright:</figcaption>
+<figcaption>3C294: Distant X-Ray Galaxy Cluster</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -158,7 +157,7 @@ Credit and Copyright:</figcaption>
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 8 May, 01:24 BST
+Last updated Saturday, 8 May, 13:12 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
