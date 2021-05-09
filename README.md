@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0102/3c294_chandra_big.jpg"
+  src="https://apod.nasa.gov/apod/image/9812/ttcyg_olofsson_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>3C294: Distant X-Ray Galaxy Cluster</figcaption>
+<figcaption>TT Cygni: Carbon Star</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 8 May, 13:12 BST
+Last updated Sunday, 9 May, 01:26 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
