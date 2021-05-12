@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1204/m46m47_equivar_1600.jpg"
+  src="https://apod.nasa.gov/apod/image/0704/redsquare_tuthill_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>M46 &amp; M47: Star Clusters Young and Old</figcaption>
+<figcaption>MWC 922: The Red Square Nebula</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 11 May, 13:12 BST
+Last updated Wednesday, 12 May, 01:25 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
