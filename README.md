@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9905/loop1_rosat_big.gif"
+  src="https://apod.nasa.gov/apod/image/9904/sundial_mars_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Loop I in the Northern Sky</figcaption>
+<figcaption>A Sundial for Mars</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -157,7 +157,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 12 May, 13:14 BST
+Last updated Thursday, 13 May, 01:35 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
