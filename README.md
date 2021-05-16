@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1311/m15_hubble_3749.jpg"
+  src="https://apod.nasa.gov/apod/image/0108/phobos_vik1_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Globular Cluster M15 from Hubble</figcaption>
+<figcaption>Phobos: Doomed Moon of Mars</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -40,7 +40,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="">alexeymezenin&#x2F;laravel-best-practices</a>
+<a href="https://github.com/ShaneLucy/crud-fastapi">ShaneLucy&#x2F;crud-fastapi</a>
 
 <br /><br /><br />
 
@@ -69,6 +69,13 @@
       </td>
       <td>HTML</td>
       <td>My configurations and dotfiles</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/crud-fastapi">crud-fastapi</a>
+      </td>
+      <td>null</td>
+      <td>null</td>
     </tr>
     <tr>
       <td>
@@ -157,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 15 May, 13:14 BST
+Last updated Sunday, 16 May, 01:37 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
