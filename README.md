@@ -2,11 +2,12 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0612/suntsunami_nso.gif"
+  src="https://apod.nasa.gov/apod/image/9612/gany3d1_gal_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>A Large Tsunami Shock Wave on the Sun</figcaption>
+<figcaption>The Hills of Ganymede
+Credit:</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +165,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 18 May, 01:37 BST
+Last updated Tuesday, 18 May, 13:15 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
