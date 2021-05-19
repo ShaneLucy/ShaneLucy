@@ -2,12 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9612/gany3d1_gal_big.jpg"
+  src="https://apod.nasa.gov/apod/image/2105/SteveMichigan_Kiczenski_1378.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Hills of Ganymede
-Credit:</figcaption>
+<figcaption>STEVE over Copper Harbor</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -165,7 +164,7 @@ Credit:</figcaption>
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 18 May, 13:15 BST
+Last updated Wednesday, 19 May, 01:34 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
