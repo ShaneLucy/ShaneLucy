@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0611/m33hargb_schur_F1024.jpg"
+  src="https://apod.nasa.gov/apod/image/9809/europacolor_gal_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Hydrogen in M33</figcaption>
+<figcaption>Europa: Ridges and Rafts on a Frozen Moon</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 23 May, 01:39 BST
+Last updated Sunday, 23 May, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
