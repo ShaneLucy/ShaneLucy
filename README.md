@@ -2,11 +2,12 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9809/europacolor_gal_big.jpg"
+  src="https://apod.nasa.gov/apod/image/9703/hb_van4.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Europa: Ridges and Rafts on a Frozen Moon</figcaption>
+<figcaption>Comet Country 
+Credit and Copyright:</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +165,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 23 May, 13:14 BST
+Last updated Monday, 24 May, 01:37 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
