@@ -2,12 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9703/hb_van4.jpg"
+  src="https://apod.nasa.gov/apod/image/cg4_aat.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Comet Country 
-Credit and Copyright:</figcaption>
+<figcaption>CG4: A Ruptured Cometary Globule</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -165,7 +164,7 @@ Credit and Copyright:</figcaption>
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 24 May, 01:37 BST
+Last updated Monday, 24 May, 13:15 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
