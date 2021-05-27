@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0208/hamburger_hst_big.jpg"
+  src="https://apod.nasa.gov/apod/image/9706/grbhost_hst_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Gomez&#39;s Hamburger: A Proto-Planetary Nebula</figcaption>
+<figcaption>A GRB Host?</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 26 May, 13:19 BST
+Last updated Thursday, 27 May, 01:47 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
