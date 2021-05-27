@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9706/grbhost_hst_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0302/ngc346_cxo_full.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>A GRB Host?</figcaption>
+<figcaption>The Heart in NGC 346</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 27 May, 01:47 BST
+Last updated Thursday, 27 May, 13:28 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
