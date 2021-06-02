@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0804/ngc3582_noao_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0101/catseye_composite_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Star Forming Region NGC 3582</figcaption>
+<figcaption>X-rays From The Cat&#39;s Eye</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -40,22 +40,113 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href=""></a>
-Request failed with status code 403
+<a href="https://github.com/ShaneLucy/pretty-good-playground">ShaneLucy&#x2F;pretty-good-playground</a>
+
 <br /><br /><br />
 
 <hr />
 <h4>My Open Source Projects:</h4>
-Request failed with status code 403
+
 <table>
   <thead>
     <tr>
-      <td><b></b></td>
-      <td><b></b></td>
-      <td><b></b></td>
+      <td><b>Project</b></td>
+      <td><b>Language</b></td>
+      <td><b>Description</b></td>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/Clash-Royale-Clan-Tracker">Clash-Royale-Clan-Tracker</a>
+      </td>
+      <td>PHP</td>
+      <td>A website which automates and improves upon the process of manually logging member progress</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/Configurations">Configurations</a>
+      </td>
+      <td>HTML</td>
+      <td>My configurations and dotfiles</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/crud-fastapi">crud-fastapi</a>
+      </td>
+      <td>null</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/crypto-tokens">crypto-tokens</a>
+      </td>
+      <td>Vue</td>
+      <td>A basic website displaying crypto currency information from coingecko</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/EloquentJs">EloquentJs</a>
+      </td>
+      <td>JavaScript</td>
+      <td>Exercises from the book Eloquent JavaScript</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/My-Portfolio">My-Portfolio</a>
+      </td>
+      <td>PHP</td>
+      <td>A portfolio website to showcase my work to date</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/pretty-good-playground">pretty-good-playground</a>
+      </td>
+      <td>Svelte</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/recipe-app-api">recipe-app-api</a>
+      </td>
+      <td>Python</td>
+      <td>Source code for recipe api</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/ShaneLucy">ShaneLucy</a>
+      </td>
+      <td>Mustache</td>
+      <td>My personal repository</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/styled-scrollbar">styled-scrollbar</a>
+      </td>
+      <td>HTML</td>
+      <td>Restyled scrollbar </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/to-do-list">to-do-list</a>
+      </td>
+      <td>PHP</td>
+      <td>A simple, private by default to do list web app</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/TriviaGame">TriviaGame</a>
+      </td>
+      <td>Python</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/woodhill">woodhill</a>
+      </td>
+      <td>CSS</td>
+      <td>null</td>
+    </tr>
   </tbody>
 </table>
 <br /><br /><br />
@@ -73,7 +164,7 @@ Request failed with status code 403
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 2 June, 02:45 BST
+Last updated Wednesday, 2 June, 13:52 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
