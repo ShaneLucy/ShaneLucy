@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0101/catseye_composite_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1906/NICERNightMovesnolabels_0.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>X-rays From The Cat&#39;s Eye</figcaption>
+<figcaption>NICER at Night</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 2 June, 13:52 BST
+Last updated Thursday, 3 June, 02:24 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
