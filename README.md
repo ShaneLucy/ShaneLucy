@@ -2,11 +2,12 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1906/NICERNightMovesnolabels_0.jpg"
+  src="https://apod.nasa.gov/apod/image/9702/jupiter1_irtf_big.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>NICER at Night</figcaption>
+<figcaption>Running Red Rings Around Jupiter
+Credit:</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +165,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 3 June, 02:24 BST
+Last updated Thursday, 3 June, 13:36 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
