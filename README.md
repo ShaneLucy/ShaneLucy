@@ -2,12 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9702/jupiter1_irtf_big.gif"
+  src="https://apod.nasa.gov/apod/image/1909/SpiderFly_Spitzer2Mass_4165.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Running Red Rings Around Jupiter
-Credit:</figcaption>
+<figcaption>The Spider Nebula in Infrared</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -165,7 +164,7 @@ Credit:</figcaption>
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 3 June, 13:36 BST
+Last updated Friday, 4 June, 02:16 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
