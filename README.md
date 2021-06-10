@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1803/Cycle-Panel-1200px.jpg"
+  src="https://apod.nasa.gov/apod/image/0803/barnard68_vlt_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Phases of the Moon</figcaption>
+<figcaption>Molecular Cloud Barnard 68</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 9 June, 13:13 BST
+Last updated Thursday, 10 June, 01:31 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
