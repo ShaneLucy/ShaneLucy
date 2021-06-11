@@ -2,11 +2,12 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0505/ic4678_siarkiewiczs_big.jpg"
+  src="https://apod.nasa.gov/apod/image/9703/grb970228_sax_big.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Swirls and Stars in IC 4678</figcaption>
+<figcaption>Gamma Ray Burster
+Credit:</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +165,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 11 June, 01:29 BST
+Last updated Friday, 11 June, 13:12 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
