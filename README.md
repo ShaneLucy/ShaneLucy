@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/2104/Flame_ARO_1462.jpg"
+  src="https://apod.nasa.gov/apod/image/0505/ic4678_siarkiewiczs_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Alnitak and the Flame Nebula</figcaption>
+<figcaption>Swirls and Stars in IC 4678</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 10 June, 13:14 BST
+Last updated Friday, 11 June, 01:29 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
