@@ -2,12 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9703/grb970228_sax_big.gif"
+  src="https://apod.nasa.gov/apod/image/1403/archtrails_brady_2000.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Gamma Ray Burster
-Credit:</figcaption>
+<figcaption>Warped Sky: Star Trails over Arches National Park</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -165,7 +164,7 @@ Credit:</figcaption>
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 11 June, 13:12 BST
+Last updated Saturday, 12 June, 01:25 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
