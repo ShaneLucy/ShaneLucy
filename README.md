@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/2001/Hyades_Mtanous_1998.jpg"
+  src="https://apod.nasa.gov/apod/image/1604/EclipseSpaceGround_Koutchmy_4266.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Hyades Star Cluster</figcaption>
+<figcaption>Combined Solar Eclipse Corona from Earth and Space</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 12 June, 13:11 BST
+Last updated Sunday, 13 June, 01:30 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
