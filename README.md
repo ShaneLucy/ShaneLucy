@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9707/cl1358_hst_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1512/MoonVenus_Occultation2_Small.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Behind CL1358+62:  A New Farthest Object</figcaption>
+<figcaption>Daytime Moon Meets Morning Star</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 16 June, 13:13 BST
+Last updated Thursday, 17 June, 01:27 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
