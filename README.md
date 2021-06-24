@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0203/greenbank_nrao_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0904/iss_castor_090326_ladanyi_v1.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The 100-Meter Green Bank Radio Telescope</figcaption>
+<figcaption>100 Hours of Astronomy Begins</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 23 June, 13:10 BST
+Last updated Thursday, 24 June, 01:22 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
