@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0904/iss_castor_090326_ladanyi_v1.jpg"
+  src="https://apod.nasa.gov/apod/image/0411/aurora_moussette_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>100 Hours of Astronomy Begins</figcaption>
+<figcaption>A Full Sky Multicolored Auroral Corona</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 24 June, 01:22 BST
+Last updated Thursday, 24 June, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
