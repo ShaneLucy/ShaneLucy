@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/watervapor_goes8_big.gif"
+  src="https://apod.nasa.gov/apod/image/0806/tethys3_cassini_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Water Vapor Channel</figcaption>
+<figcaption>Ithaca Chasma: The Great Rift on Saturn&#39;s Tethys</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 28 June, 01:32 BST
+Last updated Monday, 28 June, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
