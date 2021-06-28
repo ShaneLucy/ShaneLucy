@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9612/iorotate_gal.gif"
+  src="https://apod.nasa.gov/apod/image/watervapor_goes8_big.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Io Rotating</figcaption>
+<figcaption>The Water Vapor Channel</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 27 June, 13:13 BST
+Last updated Monday, 28 June, 01:32 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
