@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0806/tethys3_cassini_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0509/enceladusstripes_cassini_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Ithaca Chasma: The Great Rift on Saturn&#39;s Tethys</figcaption>
+<figcaption>Fresh Tiger Stripes on Saturn&#39;s Enceladus</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 28 June, 13:13 BST
+Last updated Tuesday, 29 June, 01:28 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
