@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1203/McMathPlanets_line.jpg"
+  src="https://apod.nasa.gov/apod/image/0809/haumea_nasa_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Bright Planets at McMath-Pierce Solar Telescope</figcaption>
+<figcaption>Haumea of the Outer Solar System</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 30 June, 01:29 BST
+Last updated Wednesday, 30 June, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
