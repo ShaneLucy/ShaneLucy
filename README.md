@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src=""
-  alt="Request failed with status code 504"
+  src="https://apod.nasa.gov/apod/image/1105/MilkyWayObservers_tafreshi.jpg"
+  alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption></figcaption>
+<figcaption>Messier Marathon</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 1 July, 01:30 BST
+Last updated Thursday, 1 July, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
