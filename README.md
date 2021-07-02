@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1105/MilkyWayObservers_tafreshi.jpg"
+  src="https://apod.nasa.gov/apod/image/1202/ic410wide_cannistra.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Messier Marathon</figcaption>
+<figcaption>Aurigae Nebulae</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 1 July, 13:14 BST
+Last updated Friday, 2 July, 01:28 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
