@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9808/lmcstream_csiro_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0111/ngc6782_hst_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Magellanic Stream</figcaption>
+<figcaption>The Galactic Ring of NGC 6782</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 3 July, 01:29 BST
+Last updated Saturday, 3 July, 13:12 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
