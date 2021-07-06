@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1411/HLtauri_alma_1800.jpg"
+  src="https://apod.nasa.gov/apod/image/earth_a17.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Protoplanetary Disk of HL Tauri from ALMA</figcaption>
+<figcaption>Earth from Apollo 17</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 5 July, 13:13 BST
+Last updated Tuesday, 6 July, 01:29 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
