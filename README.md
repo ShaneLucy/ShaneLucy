@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0304/bat99-2_eso_full.jpg"
+  src="https://apod.nasa.gov/apod/image/1801/c2016_r2_2018_01_07dpjjc.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Energized Nebula in the LMC</figcaption>
+<figcaption>Blue Comet PanSTARRS</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 9 July, 13:13 BST
+Last updated Saturday, 10 July, 01:28 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
