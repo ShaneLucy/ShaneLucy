@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0004/m16_hst_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1007/TaupoPlanets_tezel.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Eagle EGGs in M16</figcaption>
+<figcaption>Ecliptic New Zealand</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 10 July, 13:12 BST
+Last updated Sunday, 11 July, 01:30 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
