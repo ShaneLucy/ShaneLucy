@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0311/marscanalhubble_ruen_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1101/47Tuc_DW.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Mars Then and Now</figcaption>
+<figcaption>Globular Star Cluster 47 Tuc</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 12 July, 01:29 BST
+Last updated Monday, 12 July, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
