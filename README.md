@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1708/ISSeclipse_Tang_1221.jpg"
+  src="https://apod.nasa.gov/apod/image/0503/ngc2266_credner_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>A Fleeting Double Eclipse of the Sun</figcaption>
+<figcaption>NGC 2266: Old Cluster in the New General Catalog</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 13 July, 01:30 BST
+Last updated Tuesday, 13 July, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
