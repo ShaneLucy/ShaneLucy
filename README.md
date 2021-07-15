@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0005/pleplan_lasc3_1042big.gif"
+  src="https://apod.nasa.gov/apod/image/2010/VenusVolcano_NasaRubin_1600.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Pleiades, Planets, And Hot Plasma</figcaption>
+<figcaption>Venusian Volcano Imagined</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 14 July, 13:13 BST
+Last updated Thursday, 15 July, 01:29 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
