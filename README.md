@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/gold_voyager_big.gif"
+  src="https://apod.nasa.gov/apod/image/0609/lmc_spitzer_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Voyagers&#39; Message in a Bottle</figcaption>
+<figcaption>The Large Magellanic Cloud in Infrared</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 16 July, 01:29 BST
+Last updated Friday, 16 July, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
