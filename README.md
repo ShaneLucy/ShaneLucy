@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0609/lmc_spitzer_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0211/NightTrailsOfAfrica_zimmerman_c1.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Large Magellanic Cloud in Infrared</figcaption>
+<figcaption>Night Trails of Africa</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 16 July, 13:13 BST
+Last updated Saturday, 17 July, 01:29 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
