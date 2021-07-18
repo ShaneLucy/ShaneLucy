@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1610/M45_vonEiff_1600.jpg"
+  src="https://apod.nasa.gov/apod/image/1703/n2170AdamBlock.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>M45: The Pleiades Star Cluster</figcaption>
+<figcaption>NGC 2170: Still Life with Reflecting Dust</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 17 July, 13:12 BST
+Last updated Sunday, 18 July, 01:30 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
