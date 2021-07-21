@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/atlantis_mir_big.gif"
+  src="https://apod.nasa.gov/apod/image/1410/mwSunToMoon_lane_1800.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Space Shuttle Docks with Mir</figcaption>
+<figcaption>From the Temple of the Sun to the Temple of the Moon</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 20 July, 13:14 BST
+Last updated Wednesday, 21 July, 01:31 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
