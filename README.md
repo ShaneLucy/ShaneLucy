@@ -2,12 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9611/qsohosts_hst_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1410/cometmars_peach_1336.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>A Quasar Portrait Gallery
-Credit:</figcaption>
+<figcaption>Comet Siding Spring Passes Mars</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -165,7 +164,7 @@ Credit:</figcaption>
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 23 July, 01:30 BST
+Last updated Friday, 23 July, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
