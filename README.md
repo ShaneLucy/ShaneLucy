@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1410/cometmars_peach_1336.jpg"
+  src=""
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Comet Siding Spring Passes Mars</figcaption>
+<figcaption>Star Size Comparison 2</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 23 July, 13:13 BST
+Last updated Saturday, 24 July, 01:28 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
