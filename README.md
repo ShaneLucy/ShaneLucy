@@ -2,12 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/dip_cobe.gif"
+  src="https://apod.nasa.gov/apod/image/1501/lovejoy_popov_1100.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>COBE Dipole: Speeding Through the Universe 
-Credit:</figcaption>
+<figcaption>The Complex Ion Tail of Comet Lovejoy</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -165,7 +164,7 @@ Credit:</figcaption>
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 25 July, 13:13 BST
+Last updated Monday, 26 July, 01:29 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
