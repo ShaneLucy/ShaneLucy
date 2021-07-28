@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0705/ldn1622_carboni.jpg"
+  src="https://apod.nasa.gov/apod/image/0008/solarspectrum_noao.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>LDN 1622: Dark Nebula in Orion</figcaption>
+<figcaption>The Solar Spectrum</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 27 July, 13:13 BST
+Last updated Wednesday, 28 July, 01:30 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
