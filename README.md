@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0008/solarspectrum_noao.jpg"
+  src="https://apod.nasa.gov/apod/image/9612/eincross_wht.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Solar Spectrum</figcaption>
+<figcaption>Microlensing of the Einstein Cross</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 28 July, 01:30 BST
+Last updated Wednesday, 28 July, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
