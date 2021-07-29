@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9612/eincross_wht.gif"
+  src="https://apod.nasa.gov/apod/image/2011/C2020M3Orion_CharlesBracken.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Microlensing of the Einstein Cross</figcaption>
+<figcaption>Comet ATLAS and Orion&#39;s Belt</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 28 July, 13:13 BST
+Last updated Thursday, 29 July, 01:28 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
