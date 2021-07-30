@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9810/aurora1_jpd.jpg"
+  src="https://apod.nasa.gov/apod/image/0209/m17region_uks022.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Case of the Missing Aurora</figcaption>
+<figcaption>A Sagittarius Starscape</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 30 July, 01:30 BST
+Last updated Friday, 30 July, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
