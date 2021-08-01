@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0811/sts126_kozubal_lg.jpg"
+  src="https://apod.nasa.gov/apod/image/1612/KESZ_18_vagas16-9_feliratos2048.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Endeavour in the Moon</figcaption>
+<figcaption>Galaxies in Pegasus</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 31 July, 13:13 BST
+Last updated Sunday, 1 August, 01:34 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
