@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1612/KESZ_18_vagas16-9_feliratos2048.jpg"
+  src="https://apod.nasa.gov/apod/image/0903/night2_globe_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Galaxies in Pegasus</figcaption>
+<figcaption>GLOBE at Night: Help Track Light Pollution</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 1 August, 01:34 BST
+Last updated Sunday, 1 August, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
