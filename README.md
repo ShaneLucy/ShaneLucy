@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0606/willie_bov_panorama2.jpg"
+  src="https://apod.nasa.gov/apod/image/1404/elgordo_chandrahubble_3600.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Gordel van Venus</figcaption>
+<figcaption>The El Gordo Massive Galaxy Cluster</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 3 August, 01:33 BST
+Last updated Tuesday, 3 August, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
