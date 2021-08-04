@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1404/elgordo_chandrahubble_3600.jpg"
+  src="https://apod.nasa.gov/apod/image/1011/anticrepuscular_britton_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The El Gordo Massive Galaxy Cluster</figcaption>
+<figcaption>Anticrepuscular Rays Over Colorado</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 3 August, 13:13 BST
+Last updated Wednesday, 4 August, 01:28 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
