@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1011/anticrepuscular_britton_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1502/Feb20Lovejoy_astroligu60.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Anticrepuscular Rays Over Colorado</figcaption>
+<figcaption>Long Lovejoy and Little Dumbbell</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -164,7 +164,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 4 August, 01:28 BST
+Last updated Wednesday, 4 August, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
