@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0301/nightlaunch_sts104_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1812/IMG_8741_cSunHaloEdback2048.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Atlantis to Orbit</figcaption>
+<figcaption>Extraordinary Solar Halos</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -40,7 +40,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/pretty-good-playground">ShaneLucy&#x2F;pretty-good-playground</a>
+<a href="https://github.com/ShaneLucy/solar-system">ShaneLucy&#x2F;solar-system</a>
 
 <br /><br /><br />
 
@@ -121,6 +121,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/ShaneLucy/solar-system">solar-system</a>
+      </td>
+      <td>TypeScript</td>
+      <td>A scaled 3d model of our solar system built with three.js</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/ShaneLucy/styled-scrollbar">styled-scrollbar</a>
       </td>
       <td>HTML</td>
@@ -164,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 5 August, 13:14 BST
+Last updated Friday, 6 August, 01:30 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
