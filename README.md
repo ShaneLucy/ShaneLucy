@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/hesun_eit_big.gif"
+  src="https://apod.nasa.gov/apod/image/0110/g292_cxo_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Helios Helium</figcaption>
+<figcaption>Elements in the Aftermath</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 7 August, 01:27 BST
+Last updated Saturday, 7 August, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
