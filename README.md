@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0603/redjr_salway_e.jpg"
+  src="https://apod.nasa.gov/apod/image/1001/aseJan2010_svalgaard.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Red Spot Jr.</figcaption>
+<figcaption>Millennium Annular Solar Eclipse</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 8 August, 01:30 BST
+Last updated Sunday, 8 August, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
