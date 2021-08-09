@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1001/aseJan2010_svalgaard.jpg"
+  src="https://apod.nasa.gov/apod/image/0207/as12stereo_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Millennium Annular Solar Eclipse</figcaption>
+<figcaption>Apollo 12: Stereo View Near Surveyor Crater</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -123,7 +123,7 @@
       <td>
         <a href="https://github.com/ShaneLucy/solar-system">solar-system</a>
       </td>
-      <td>TypeScript</td>
+      <td>Svelte</td>
       <td>A scaled 3d model of our solar system built with three.js</td>
     </tr>
     <tr>
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 8 August, 13:13 BST
+Last updated Monday, 9 August, 01:31 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
