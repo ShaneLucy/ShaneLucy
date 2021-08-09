@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0207/as12stereo_big.jpg"
+  src="https://apod.nasa.gov/apod/image/milkyway_lund_big.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Apollo 12: Stereo View Near Surveyor Crater</figcaption>
+<figcaption>7,000 Stars And The Milky Way</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 9 August, 01:31 BST
+Last updated Monday, 9 August, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
