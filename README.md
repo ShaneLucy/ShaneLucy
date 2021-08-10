@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0406/venus2004_lawrence_big.jpg"
+  src="https://apod.nasa.gov/apod/image/gan1_voyager2_big.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>A Rare Annular Venusian Solar Eclipse</figcaption>
+<figcaption>Voyager&#39;s Preview of Galileo at Ganymede</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 10 August, 01:31 BST
+Last updated Tuesday, 10 August, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
