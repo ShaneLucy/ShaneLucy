@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/gan1_voyager2_big.gif"
+  src="https://apod.nasa.gov/apod/image/0101/message_dutil.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Voyager&#39;s Preview of Galileo at Ganymede</figcaption>
+<figcaption>A Cosmic Call to Nearby Stars</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 10 August, 13:13 BST
+Last updated Wednesday, 11 August, 01:34 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
