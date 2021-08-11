@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0101/message_dutil.gif"
+  src="https://apod.nasa.gov/apod/image/0109/tse2001cmp_espenak_c1.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>A Cosmic Call to Nearby Stars</figcaption>
+<figcaption>Moon AND Sun</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 11 August, 01:34 BST
+Last updated Wednesday, 11 August, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
