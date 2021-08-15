@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1010/darkshadows_cassini_big.jpg"
+  src="https://apod.nasa.gov/apod/image/9905/ngc6872_vlt_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Saturn: Light, Dark, and Strange</figcaption>
+<figcaption>NGC 6872: A Stretched Spiral</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 15 August, 01:30 BST
+Last updated Sunday, 15 August, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
