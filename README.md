@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/bh_rjn.gif"
+  src="https://apod.nasa.gov/apod/image/9912/nowind_polar_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Too Close to a Black Hole</figcaption>
+<figcaption>Unusual Aurora During Solar Wind Dropout</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 16 August, 01:30 BST
+Last updated Monday, 16 August, 13:16 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
