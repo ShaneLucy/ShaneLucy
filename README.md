@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9912/nowind_polar_big.jpg"
+  src="https://apod.nasa.gov/apod/image/2011/DoubleCluster_Polanski_4560.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Unusual Aurora During Solar Wind Dropout</figcaption>
+<figcaption>A Double Star Cluster in Perseus</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 16 August, 13:16 BST
+Last updated Tuesday, 17 August, 01:30 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
