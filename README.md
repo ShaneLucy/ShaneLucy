@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9912/catspaw_ware_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0201/hypatia.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Cat&#39;s Paw Nebula</figcaption>
+<figcaption>Hypatia of Alexandria</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 17 August, 13:13 BST
+Last updated Wednesday, 18 August, 01:29 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
