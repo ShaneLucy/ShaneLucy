@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1806/sts98plume_nasa_1111.jpg"
+  src="https://apod.nasa.gov/apod/image/9801/europaraft2_gal_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Rocket Plume Shadow Points to the Moon</figcaption>
+<figcaption>Europa&#39;s Disconnected Surface</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 19 August, 01:26 BST
+Last updated Thursday, 19 August, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
