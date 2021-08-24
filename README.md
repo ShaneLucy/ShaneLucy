@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1407/iridescentmountain_bartunov_1268.jpg"
+  src="https://apod.nasa.gov/apod/image/1211/ngc1365sn_pugh_2141.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Iridescent Clouds over Thamserku</figcaption>
+<figcaption>NGC 1365: Majestic Spiral with Supernova</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 24 August, 01:29 BST
+Last updated Tuesday, 24 August, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
