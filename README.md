@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1211/ngc1365sn_pugh_2141.jpg"
+  src="https://apod.nasa.gov/apod/image/2012/MoonEye_Cooley_1350.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>NGC 1365: Majestic Spiral with Supernova</figcaption>
+<figcaption>Eye of Moon</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 24 August, 13:13 BST
+Last updated Wednesday, 25 August, 01:30 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
