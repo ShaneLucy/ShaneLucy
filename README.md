@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src=""
+  src="https://apod.nasa.gov/apod/image/CygnusLoop_hst_big.gif"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Higgs Boson Explained by Cartoon</figcaption>
+<figcaption>The Cygnus Loop</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 25 August, 13:14 BST
+Last updated Thursday, 26 August, 01:28 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
