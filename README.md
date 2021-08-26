@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/CygnusLoop_hst_big.gif"
+  src="https://apod.nasa.gov/apod/image/1610/GhostAurora_Takasaka_960.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Cygnus Loop</figcaption>
+<figcaption>Ghost Aurora over Canada</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 26 August, 01:28 BST
+Last updated Thursday, 26 August, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
