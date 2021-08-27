@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1610/GhostAurora_Takasaka_960.jpg"
+  src="https://apod.nasa.gov/apod/image/1408/mwyellowstone_lane_1800.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Ghost Aurora over Canada</figcaption>
+<figcaption>Milky Way over Yellowstone</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 26 August, 13:14 BST
+Last updated Friday, 27 August, 01:32 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
