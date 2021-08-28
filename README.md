@@ -2,12 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/cobe_milkyw.gif"
+  src="https://apod.nasa.gov/apod/image/0312/antarcticeclipse_bruenjes.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>The Milky Way&#39;s Center
-Credit:</figcaption>
+<figcaption>An Antarctic Total Solar Eclipse</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -172,7 +171,7 @@ Credit:</figcaption>
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 27 August, 13:14 BST
+Last updated Saturday, 28 August, 01:28 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
