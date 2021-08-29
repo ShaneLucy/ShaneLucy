@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1802/SunVenusUv3_SdoDove_800.jpg"
+  src="https://apod.nasa.gov/apod/image/0512/witch_hubl_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Venus and the Triply Ultraviolet Sun</figcaption>
+<figcaption>IC 2118: The Witch Head Nebula</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 29 August, 01:31 BST
+Last updated Sunday, 29 August, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
