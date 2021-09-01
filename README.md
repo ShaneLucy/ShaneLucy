@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0610/heart_russell_big.jpg"
+  src="https://apod.nasa.gov/apod/image/1103/asteroidstreak_hst_350.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Light from the Heart Nebula</figcaption>
+<figcaption>Asteroids in the Distance</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 31 August, 13:13 BST
+Last updated Wednesday, 1 September, 01:31 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
