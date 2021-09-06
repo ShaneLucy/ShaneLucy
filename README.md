@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0701/gammacyg_parkercarboni.jpg"
+  src="https://apod.nasa.gov/apod/image/0604/sn1006_tezel_full.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Central Cygnus</figcaption>
+<figcaption>1006 AD: Supernova in the Sky</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 6 September, 01:34 BST
+Last updated Monday, 6 September, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
