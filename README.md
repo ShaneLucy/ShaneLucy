@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/9712/runaway_eso_big.jpg"
+  src="https://apod.nasa.gov/apod/image/0701/gammacyg_parkercarboni.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Runaway Star</figcaption>
+<figcaption>Central Cygnus</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 5 September, 13:13 BST
+Last updated Monday, 6 September, 01:34 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
