@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0604/sn1006_tezel_full.jpg"
+  src="https://apod.nasa.gov/apod/image/0512/eunight2_pv_big.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>1006 AD: Supernova in the Sky</figcaption>
+<figcaption>Europe at Night</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 6 September, 13:14 BST
+Last updated Tuesday, 7 September, 01:29 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
