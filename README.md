@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/goddard1.gif"
+  src="https://apod.nasa.gov/apod/image/0405/mvms_042304_richard_f1.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Rockets and Robert Goddard</figcaption>
+<figcaption>A Western Sky at Twilight</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 8 September, 13:14 BST
+Last updated Thursday, 9 September, 01:32 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
