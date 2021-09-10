@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1905/M8M20_Padilla_1534.jpg"
+  src="https://apod.nasa.gov/apod/image/0504/antarcticeclipse_bruenjes.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Deep Field: Nebulae of Sagittarius</figcaption>
+<figcaption>Solar Eclipse in View</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -123,7 +123,7 @@
       <td>
         <a href="https://github.com/ShaneLucy/solar-system">solar-system</a>
       </td>
-      <td>Svelte</td>
+      <td>TypeScript</td>
       <td>A scaled 3d model of our solar system built with three.js</td>
     </tr>
     <tr>
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 9 September, 13:14 BST
+Last updated Friday, 10 September, 01:33 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
