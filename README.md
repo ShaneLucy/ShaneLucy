@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1805/IMG_5932_curti2048.jpg"
+  src="https://apod.nasa.gov/apod/image/2008/IC1396_Chad_Leader.png"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Reflections of Venus and Moon</figcaption>
+<figcaption>The Elephant&#39;s Trunk Nebula in Cepheus</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 12 September, 13:13 BST
+Last updated Monday, 13 September, 01:33 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
