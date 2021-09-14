@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/1206/sag3_pugh.jpg"
+  src="https://apod.nasa.gov/apod/image/0401/mars_spirit3d_PIA05008.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>A Sagittarius Triplet</figcaption>
+<figcaption>The Hills of Mars</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 14 September, 01:32 BST
+Last updated Tuesday, 14 September, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
