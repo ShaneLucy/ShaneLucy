@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0501/descentTitan_cassini_f.jpg"
+  src="https://apod.nasa.gov/apod/image/2002/PIA23645PaleBlueDot.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Descent to Titan</figcaption>
+<figcaption>The Pale Blue Dot</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 15 September, 01:31 BST
+Last updated Wednesday, 15 September, 13:15 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
