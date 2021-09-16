@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0711/P17HolmesWeb3_goldman.jpg"
+  src="https://apod.nasa.gov/apod/image/0202/ikeyazhang_cooper_full.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Golden Comet Holmes</figcaption>
+<figcaption>Comet Ikeya-Zhang</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 16 September, 01:32 BST
+Last updated Thursday, 16 September, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
