@@ -2,11 +2,11 @@
 
 <br />
 <img
-  src="https://apod.nasa.gov/apod/image/0612/20061207_tezel.jpg"
+  src="https://apod.nasa.gov/apod/image/1401/gegenschein_beletsky_1182.jpg"
   alt=""
   style="max-width: 100vw; max-height: 60vh"
 />
-<figcaption>Three Planets in Dawn Skies</figcaption>
+<figcaption>The Gegenschein Over Chile</figcaption>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -171,7 +171,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 17 September, 13:14 BST
+Last updated Saturday, 18 September, 01:29 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
