@@ -1,12 +1,14 @@
 <h3>Hi, welcome to my profile 👋</h3>
 
 <br />
-<img
-  src="https://apod.nasa.gov/apod/image/1401/gegenschein_beletsky_1182.jpg"
-  alt=""
-  style="max-width: 100vw; max-height: 60vh"
-/>
-<figcaption>The Gegenschein Over Chile</figcaption>
+<figure>
+  <img
+    src="https://apod.nasa.gov/apod/image/1711/BeltStars_nouroozi2000.jpg"
+    alt=""
+    style="max-width: 100vw; max-height: 60vh"
+  />
+  <figcaption>Alnitak, Alnilam, Mintaka from  <a href="https://apod.nasa.gov/apod/">https://apod.nasa.gov/apod/</a></figcaption>
+</figure>
 
 <h4>Technologies I use:</h4>
 <br />
@@ -40,7 +42,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/solar-system">ShaneLucy&#x2F;solar-system</a>
+<a href="https://github.com/ShaneLucy/ShaneLucy">ShaneLucy&#x2F;ShaneLucy</a>
 
 <br /><br /><br />
 
@@ -162,8 +164,12 @@
   src="https://github-readme-stats.vercel.app/api?username=shanelucy&show_icons=true&bg_color=00000000"
 />
 <br /><br /><br />
-<hr />
 
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanelucy&bg_color=00000000"
+/>
+<br /><br /><br /><br />
+<hr />
 <h4>My Socials:</h4>
 <a href="https://uk.linkedin.com/in/shane-lucy-4735b616a">
   <img
@@ -171,7 +177,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 18 September, 01:29 BST
+Last updated Saturday, 18 September, 11:28 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
