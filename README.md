@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/9801/arachnoid_mag_big.gif"
+    src="https://apod.nasa.gov/apod/image/0306/EclipseSoleil1_meeckers_full.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Arachnoids on Venus from  <a href="https://apod.nasa.gov/apod/image/9801/arachnoid_mag_big.gif">https://apod.nasa.gov/apod/image/9801/arachnoid_mag_big.gif</a></figcaption>
+  <figcaption>Eclipse in the Mist from  <a href="https://apod.nasa.gov/apod/image/0306/EclipseSoleil1_meeckers_full.jpg">https://apod.nasa.gov/apod/image/0306/EclipseSoleil1_meeckers_full.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -177,7 +177,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 22 September, 01:32 BST
+Last updated Wednesday, 22 September, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
