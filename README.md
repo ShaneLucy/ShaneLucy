@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/1407/etacarinae_model_comparison_labels2048.jpg"
+    src="https://apod.nasa.gov/apod/image/9801/arachnoid_mag_big.gif"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>3D Homunculus Nebula from  <a href="https://apod.nasa.gov/apod/image/1407/etacarinae_model_comparison_labels2048.jpg">https://apod.nasa.gov/apod/image/1407/etacarinae_model_comparison_labels2048.jpg</a></figcaption>
+  <figcaption>Arachnoids on Venus from  <a href="https://apod.nasa.gov/apod/image/9801/arachnoid_mag_big.gif">https://apod.nasa.gov/apod/image/9801/arachnoid_mag_big.gif</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -177,7 +177,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 21 September, 13:14 BST
+Last updated Wednesday, 22 September, 01:32 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
