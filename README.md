@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/0306/EclipseSoleil1_meeckers_full.jpg"
+    src="https://apod.nasa.gov/apod/image/0210/cena_peng_big.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Eclipse in the Mist from  <a href="https://apod.nasa.gov/apod/image/0306/EclipseSoleil1_meeckers_full.jpg">https://apod.nasa.gov/apod/image/0306/EclipseSoleil1_meeckers_full.jpg</a></figcaption>
+  <figcaption>Centaurus A: Young Blue Star Stream from  <a href="https://apod.nasa.gov/apod/image/0210/cena_peng_big.jpg">https://apod.nasa.gov/apod/image/0210/cena_peng_big.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -177,7 +177,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 22 September, 13:14 BST
+Last updated Thursday, 23 September, 01:32 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
