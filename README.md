@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/1903/NGC3324_SHO.jpg"
+    src="https://apod.nasa.gov/apod/image/0808/tseJiayuguan_simmons1280.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>NGC 3324 in Carina from  <a href="https://apod.nasa.gov/apod/image/1903/NGC3324_SHO.jpg">https://apod.nasa.gov/apod/image/1903/NGC3324_SHO.jpg</a></figcaption>
+  <figcaption>Eclipse over the Great Wall from  <a href="https://apod.nasa.gov/apod/image/0808/tseJiayuguan_simmons1280.jpg">https://apod.nasa.gov/apod/image/0808/tseJiayuguan_simmons1280.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -177,7 +177,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 23 September, 13:15 BST
+Last updated Friday, 24 September, 01:31 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
