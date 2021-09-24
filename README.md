@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/0808/tseJiayuguan_simmons1280.jpg"
+    src="https://apod.nasa.gov/apod/image/0503/earthquake_usgs_big.gif"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Eclipse over the Great Wall from  <a href="https://apod.nasa.gov/apod/image/0808/tseJiayuguan_simmons1280.jpg">https://apod.nasa.gov/apod/image/0808/tseJiayuguan_simmons1280.jpg</a></figcaption>
+  <figcaption>The Powerful Sumatra-Andaman Islands Earthquake from  <a href="https://apod.nasa.gov/apod/image/0503/earthquake_usgs_big.gif">https://apod.nasa.gov/apod/image/0503/earthquake_usgs_big.gif</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -42,7 +42,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/solar-system">ShaneLucy&#x2F;solar-system</a>
+<a href="https://github.com/ShaneLucy/eslint-config-typescript">ShaneLucy&#x2F;eslint-config-typescript</a>
 
 <br /><br /><br />
 
@@ -92,6 +92,13 @@
       </td>
       <td>JavaScript</td>
       <td>Exercises from the book Eloquent JavaScript</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/eslint-config-typescript">eslint-config-typescript</a>
+      </td>
+      <td>JavaScript</td>
+      <td>null</td>
     </tr>
     <tr>
       <td>
@@ -177,7 +184,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 24 September, 01:31 BST
+Last updated Friday, 24 September, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
