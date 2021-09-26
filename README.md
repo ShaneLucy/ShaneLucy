@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/1106/20110615_eclipse_politis1024.jpg"
+    src="https://apod.nasa.gov/apod/image/1706/GS_20170503_HandolAir_0143_Pan.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Eclipse over the Acropolis from  <a href="https://apod.nasa.gov/apod/image/1106/20110615_eclipse_politis1024.jpg">https://apod.nasa.gov/apod/image/1106/20110615_eclipse_politis1024.jpg</a></figcaption>
+  <figcaption>Shadowrise and Sunset from  <a href="https://apod.nasa.gov/apod/image/1706/GS_20170503_HandolAir_0143_Pan.jpg">https://apod.nasa.gov/apod/image/1706/GS_20170503_HandolAir_0143_Pan.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -191,7 +191,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 25 September, 13:13 BST
+Last updated Sunday, 26 September, 01:34 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
