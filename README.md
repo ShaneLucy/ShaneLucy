@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/9810/m31gc1_hst_big.jpg"
+    src="https://apod.nasa.gov/apod/image/9806/sunquake_soho_big.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>A Giant Globular Cluster in M31 from  <a href="https://apod.nasa.gov/apod/image/9810/m31gc1_hst_big.jpg">https://apod.nasa.gov/apod/image/9810/m31gc1_hst_big.jpg</a></figcaption>
+  <figcaption>Solar Flares Cause Sun Quakes from  <a href="https://apod.nasa.gov/apod/image/9806/sunquake_soho_big.jpg">https://apod.nasa.gov/apod/image/9806/sunquake_soho_big.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -191,7 +191,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 27 September, 13:14 BST
+Last updated Tuesday, 28 September, 01:32 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
