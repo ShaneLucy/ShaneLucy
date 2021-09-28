@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/9806/sunquake_soho_big.jpg"
+    src="https://apod.nasa.gov/apod/image/1309/VenusOccultationBouvier.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Solar Flares Cause Sun Quakes from  <a href="https://apod.nasa.gov/apod/image/9806/sunquake_soho_big.jpg">https://apod.nasa.gov/apod/image/9806/sunquake_soho_big.jpg</a></figcaption>
+  <figcaption>Moon, Venus and Planet Earth from  <a href="https://apod.nasa.gov/apod/image/1309/VenusOccultationBouvier.jpg">https://apod.nasa.gov/apod/image/1309/VenusOccultationBouvier.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -191,7 +191,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 28 September, 01:32 BST
+Last updated Tuesday, 28 September, 13:15 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
