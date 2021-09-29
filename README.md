@@ -3,11 +3,12 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/1309/VenusOccultationBouvier.jpg"
+    src="https://apod.nasa.gov/apod/image/9612/gany3d1_gal_big.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Moon, Venus and Planet Earth from  <a href="https://apod.nasa.gov/apod/image/1309/VenusOccultationBouvier.jpg">https://apod.nasa.gov/apod/image/1309/VenusOccultationBouvier.jpg</a></figcaption>
+  <figcaption>The Hills of Ganymede
+Credit: from  <a href="https://apod.nasa.gov/apod/image/9612/gany3d1_gal_big.jpg">https://apod.nasa.gov/apod/image/9612/gany3d1_gal_big.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -191,7 +192,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 28 September, 13:15 BST
+Last updated Wednesday, 29 September, 01:31 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
