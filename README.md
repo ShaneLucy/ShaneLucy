@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/0907/lune-jupiter4_riou.jpg"
+    src="https://apod.nasa.gov/apod/image/1608/MeteorM31_hemmerich_1948.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Moons and Jupiter from  <a href="https://apod.nasa.gov/apod/image/0907/lune-jupiter4_riou.jpg">https://apod.nasa.gov/apod/image/0907/lune-jupiter4_riou.jpg</a></figcaption>
+  <figcaption>Meteor before Galaxy from  <a href="https://apod.nasa.gov/apod/image/1608/MeteorM31_hemmerich_1948.jpg">https://apod.nasa.gov/apod/image/1608/MeteorM31_hemmerich_1948.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -42,7 +42,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/solar-system">ShaneLucy&#x2F;solar-system</a>
+<a href="https://github.com/ShaneLucy/portfolio">ShaneLucy&#x2F;portfolio</a>
 
 <br /><br /><br />
 
@@ -111,8 +111,8 @@
       <td>
         <a href="https://github.com/ShaneLucy/portfolio">portfolio</a>
       </td>
-      <td>PHP</td>
-      <td>A portfolio website to showcase my work to date</td>
+      <td>Svelte</td>
+      <td>null</td>
     </tr>
     <tr>
       <td>
@@ -191,7 +191,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 2 October, 13:13 BST
+Last updated Sunday, 3 October, 01:35 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
