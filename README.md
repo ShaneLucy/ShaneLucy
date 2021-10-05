@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/1502/m100_hubble_4060.jpg"
+    src="https://apod.nasa.gov/apod/image/0606/willie_bov_panorama2.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>M100: A Grand Design Spiral Galaxy from  <a href="https://apod.nasa.gov/apod/image/1502/m100_hubble_4060.jpg">https://apod.nasa.gov/apod/image/1502/m100_hubble_4060.jpg</a></figcaption>
+  <figcaption>Gordel van Venus from  <a href="https://apod.nasa.gov/apod/image/0606/willie_bov_panorama2.jpg">https://apod.nasa.gov/apod/image/0606/willie_bov_panorama2.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -191,7 +191,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 5 October, 01:33 BST
+Last updated Tuesday, 5 October, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
