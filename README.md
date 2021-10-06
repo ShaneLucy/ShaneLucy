@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/0606/willie_bov_panorama2.jpg"
+    src="https://apod.nasa.gov/apod/image/0110/newhorizons_durda_big.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Gordel van Venus from  <a href="https://apod.nasa.gov/apod/image/0606/willie_bov_panorama2.jpg">https://apod.nasa.gov/apod/image/0606/willie_bov_panorama2.jpg</a></figcaption>
+  <figcaption>Pluto: New Horizons from  <a href="https://apod.nasa.gov/apod/image/0110/newhorizons_durda_big.jpg">https://apod.nasa.gov/apod/image/0110/newhorizons_durda_big.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -191,7 +191,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 5 October, 13:14 BST
+Last updated Wednesday, 6 October, 01:34 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
