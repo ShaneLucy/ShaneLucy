@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/1912/ElectricMilkyWay_Pedretti_1920.jpg"
+    src="https://apod.nasa.gov/apod/image/1409/marsphereinset_curiosity_960.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Electric Night from  <a href="https://apod.nasa.gov/apod/image/1912/ElectricMilkyWay_Pedretti_1920.jpg">https://apod.nasa.gov/apod/image/1912/ElectricMilkyWay_Pedretti_1920.jpg</a></figcaption>
+  <figcaption>Unusual Rocks near Pahrump Hills on Mars from  <a href="https://apod.nasa.gov/apod/image/1409/marsphereinset_curiosity_960.jpg">https://apod.nasa.gov/apod/image/1409/marsphereinset_curiosity_960.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -191,7 +191,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 9 October, 13:13 BST
+Last updated Sunday, 10 October, 01:34 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
