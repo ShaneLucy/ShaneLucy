@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/hyakutake_14Mar_eso_big.gif"
+    src="https://apod.nasa.gov/apod/image/2106/ZhurongRover_CNSA_1920.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>The Ion Tail of Comet Hyakutake from  <a href="https://apod.nasa.gov/apod/image/hyakutake_14Mar_eso_big.gif">https://apod.nasa.gov/apod/image/hyakutake_14Mar_eso_big.gif</a></figcaption>
+  <figcaption>Zhurong: New Rover on Mars from  <a href="https://apod.nasa.gov/apod/image/2106/ZhurongRover_CNSA_1920.jpg">https://apod.nasa.gov/apod/image/2106/ZhurongRover_CNSA_1920.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -191,7 +191,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 10 October, 13:13 BST
+Last updated Monday, 11 October, 01:33 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
