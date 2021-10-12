@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/0508/ngc1_gabany_f.jpg"
+    src="https://apod.nasa.gov/apod/image/2107/ThorsHelmet_Miller_4096.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>NGC 1 and NGC 2 from  <a href="https://apod.nasa.gov/apod/image/0508/ngc1_gabany_f.jpg">https://apod.nasa.gov/apod/image/0508/ngc1_gabany_f.jpg</a></figcaption>
+  <figcaption>Thor&#39;s Helmet from  <a href="https://apod.nasa.gov/apod/image/2107/ThorsHelmet_Miller_4096.jpg">https://apod.nasa.gov/apod/image/2107/ThorsHelmet_Miller_4096.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -191,7 +191,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 11 October, 13:14 BST
+Last updated Tuesday, 12 October, 01:35 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
