@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/1403/archtrails_brady_2000.jpg"
+    src="https://apod.nasa.gov/apod/image/1602/WhiteRock_MarsOdyssey_1238.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Warped Sky: Star Trails over Arches National Park from  <a href="https://apod.nasa.gov/apod/image/1403/archtrails_brady_2000.jpg">https://apod.nasa.gov/apod/image/1403/archtrails_brady_2000.jpg</a></figcaption>
+  <figcaption>White Rock Fingers on Mars from  <a href="https://apod.nasa.gov/apod/image/1602/WhiteRock_MarsOdyssey_1238.jpg">https://apod.nasa.gov/apod/image/1602/WhiteRock_MarsOdyssey_1238.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -191,7 +191,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 17 October, 01:33 BST
+Last updated Sunday, 17 October, 13:13 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
