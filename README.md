@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/0807/isssun_wagner_big.jpg"
+    src="https://apod.nasa.gov/apod/image/0409/microq_mirabel_figure1.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>The International Space Station Transits the Sun from  <a href="https://apod.nasa.gov/apod/image/0807/isssun_wagner_big.jpg">https://apod.nasa.gov/apod/image/0807/isssun_wagner_big.jpg</a></figcaption>
+  <figcaption>Microquasar in Motion from  <a href="https://apod.nasa.gov/apod/image/0409/microq_mirabel_figure1.jpg">https://apod.nasa.gov/apod/image/0409/microq_mirabel_figure1.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -42,7 +42,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/eslint-config-svelte">ShaneLucy&#x2F;eslint-config-svelte</a>
+<a href="https://github.com/ShaneLucy/eslint-config-typescript">ShaneLucy&#x2F;eslint-config-typescript</a>
 
 <br /><br /><br />
 
@@ -191,7 +191,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 18 October, 13:14 BST
+Last updated Tuesday, 19 October, 01:33 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
