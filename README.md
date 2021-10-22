@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/0905/PerseusCluster_gabany_abell426.jpg"
+    src="https://apod.nasa.gov/apod/image/1712/JackFusco_JasperGeminids.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Galaxies of the Perseus Cluster from  <a href="https://apod.nasa.gov/apod/image/0905/PerseusCluster_gabany_abell426.jpg">https://apod.nasa.gov/apod/image/0905/PerseusCluster_gabany_abell426.jpg</a></figcaption>
+  <figcaption>A Wintry Shower from  <a href="https://apod.nasa.gov/apod/image/1712/JackFusco_JasperGeminids.jpg">https://apod.nasa.gov/apod/image/1712/JackFusco_JasperGeminids.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -42,7 +42,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/eslint-config-typescript">ShaneLucy&#x2F;eslint-config-typescript</a>
+<a href="https://github.com/ShaneLucy/project-scaffolding">ShaneLucy&#x2F;project-scaffolding</a>
 
 <br /><br /><br />
 
@@ -123,6 +123,13 @@
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/ShaneLucy/project-scaffolding">project-scaffolding</a>
+      </td>
+      <td>TypeScript</td>
+      <td>null</td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/ShaneLucy/recipe-app-api">recipe-app-api</a>
       </td>
       <td>Python</td>
@@ -191,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 22 October, 01:37 BST
+Last updated Friday, 22 October, 13:15 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
