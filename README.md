@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/challenger.gif"
+    src="https://apod.nasa.gov/apod/image/1311/c2013_r1_2013_11_07dp.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Challenger Launches Spacelab 2 from  <a href="https://apod.nasa.gov/apod/image/challenger.gif">https://apod.nasa.gov/apod/image/challenger.gif</a></figcaption>
+  <figcaption>Comet Lovejoy with M44 from  <a href="https://apod.nasa.gov/apod/image/1311/c2013_r1_2013_11_07dp.jpg">https://apod.nasa.gov/apod/image/1311/c2013_r1_2013_11_07dp.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 24 October, 13:14 BST
+Last updated Monday, 25 October, 01:34 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
