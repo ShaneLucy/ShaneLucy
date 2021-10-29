@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/0008/erosregolith_near.jpg"
+    src="https://apod.nasa.gov/apod/image/tarantula_sn.gif"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>The Regolith of Asteroid Eros from  <a href="https://apod.nasa.gov/apod/image/0008/erosregolith_near.jpg">https://apod.nasa.gov/apod/image/0008/erosregolith_near.jpg</a></figcaption>
+  <figcaption>The Tarantula and the Supernova from  <a href="https://apod.nasa.gov/apod/image/tarantula_sn.gif">https://apod.nasa.gov/apod/image/tarantula_sn.gif</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 29 October, 01:30 BST
+Last updated Friday, 29 October, 13:14 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
