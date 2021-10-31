@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/9707/etmessage_nrao.gif"
+    src="https://apod.nasa.gov/apod/image/1001/eclipse20091231_Roux.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Message from Earth from  <a href="https://apod.nasa.gov/apod/image/9707/etmessage_nrao.gif">https://apod.nasa.gov/apod/image/9707/etmessage_nrao.gif</a></figcaption>
+  <figcaption>Blue Moon Eclipse from  <a href="https://apod.nasa.gov/apod/image/1001/eclipse20091231_Roux.jpg">https://apod.nasa.gov/apod/image/1001/eclipse20091231_Roux.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 31 October, 01:33 BST
+Last updated Sunday, 31 October, 12:14 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
