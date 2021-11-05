@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/0205/whiterock_mo_big.jpg"
+    src="https://apod.nasa.gov/apod/image/1101/MosaicCintOrio_martinez.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>White Rock Fingers on Mars from  <a href="https://apod.nasa.gov/apod/image/0205/whiterock_mo_big.jpg">https://apod.nasa.gov/apod/image/0205/whiterock_mo_big.jpg</a></figcaption>
+  <figcaption>Alnitak, Alnilam, Mintaka from  <a href="https://apod.nasa.gov/apod/image/1101/MosaicCintOrio_martinez.jpg">https://apod.nasa.gov/apod/image/1101/MosaicCintOrio_martinez.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 4 November, 12:15 GMT
+Last updated Friday, 5 November, 00:32 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
