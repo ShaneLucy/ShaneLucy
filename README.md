@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/0407/040523cruxa_seip_full.jpg"
+    src="https://apod.nasa.gov/apod/image/abell3627_skyview.gif"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Southern Cross Star Colors from  <a href="https://apod.nasa.gov/apod/image/0407/040523cruxa_seip_full.jpg">https://apod.nasa.gov/apod/image/0407/040523cruxa_seip_full.jpg</a></figcaption>
+  <figcaption>Abell 3627 in the Great Attractor from  <a href="https://apod.nasa.gov/apod/image/abell3627_skyview.gif">https://apod.nasa.gov/apod/image/abell3627_skyview.gif</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -42,7 +42,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/project-scaffolding">ShaneLucy&#x2F;project-scaffolding</a>
+<a href="https://github.com/ShaneLucy/project-boilerplate-setup">ShaneLucy&#x2F;project-boilerplate-setup</a>
 
 <br /><br /><br />
 
@@ -123,7 +123,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/ShaneLucy/project-scaffolding">project-scaffolding</a>
+        <a href="https://github.com/ShaneLucy/project-boilerplate-setup">project-boilerplate-setup</a>
       </td>
       <td>TypeScript</td>
       <td>null</td>
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 7 November, 00:33 GMT
+Last updated Sunday, 7 November, 12:14 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
