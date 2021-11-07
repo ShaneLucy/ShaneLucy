@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/0812/LMCmosaicM_gendler.jpg"
+    src="https://apod.nasa.gov/apod/image/0407/040523cruxa_seip_full.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>The Large Cloud of Magellan from  <a href="https://apod.nasa.gov/apod/image/0812/LMCmosaicM_gendler.jpg">https://apod.nasa.gov/apod/image/0812/LMCmosaicM_gendler.jpg</a></figcaption>
+  <figcaption>Southern Cross Star Colors from  <a href="https://apod.nasa.gov/apod/image/0407/040523cruxa_seip_full.jpg">https://apod.nasa.gov/apod/image/0407/040523cruxa_seip_full.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 6 November, 12:13 GMT
+Last updated Sunday, 7 November, 00:33 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
