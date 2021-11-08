@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/abell3627_skyview.gif"
+    src="https://apod.nasa.gov/apod/image/0504/heic0506b_hst_big.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Abell 3627 in the Great Attractor from  <a href="https://apod.nasa.gov/apod/image/abell3627_skyview.gif">https://apod.nasa.gov/apod/image/abell3627_skyview.gif</a></figcaption>
+  <figcaption>The Fairy of Eagle Nebula from  <a href="https://apod.nasa.gov/apod/image/0504/heic0506b_hst_big.jpg">https://apod.nasa.gov/apod/image/0504/heic0506b_hst_big.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 7 November, 12:14 GMT
+Last updated Monday, 8 November, 00:33 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
