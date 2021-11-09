@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/1610/Jupiter1_Juno_960.jpg"
+    src=""
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Clouds Near Jupiter&#39;s South Pole from Juno from  <a href="https://apod.nasa.gov/apod/image/1610/Jupiter1_Juno_960.jpg">https://apod.nasa.gov/apod/image/1610/Jupiter1_Juno_960.jpg</a></figcaption>
+  <figcaption>Gamma-ray Rain from 3C 279 from  <a href=""></a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 8 November, 12:15 GMT
+Last updated Tuesday, 9 November, 00:32 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
