@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/sun_yohkoh.gif"
+    src="https://apod.nasa.gov/apod/image/hyakutake_rosat_big.gif"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>The Sun Spews X-rays from  <a href="https://apod.nasa.gov/apod/image/sun_yohkoh.gif">https://apod.nasa.gov/apod/image/sun_yohkoh.gif</a></figcaption>
+  <figcaption>Unexpected X-rays from Comet Hyakutake from  <a href="https://apod.nasa.gov/apod/image/hyakutake_rosat_big.gif">https://apod.nasa.gov/apod/image/hyakutake_rosat_big.gif</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
