@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/0605/slabsthelens_usgs_big.jpg"
+    src="https://apod.nasa.gov/apod/image/0702/cometmeteorgalaxy_yoneto_big.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Rock Slab Growing at Mt. St. Helens Volcano from  <a href="https://apod.nasa.gov/apod/image/0605/slabsthelens_usgs_big.jpg">https://apod.nasa.gov/apod/image/0605/slabsthelens_usgs_big.jpg</a></figcaption>
+  <figcaption>Comet McNaught Over New Zealand from  <a href="https://apod.nasa.gov/apod/image/0702/cometmeteorgalaxy_yoneto_big.jpg">https://apod.nasa.gov/apod/image/0702/cometmeteorgalaxy_yoneto_big.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -42,7 +42,7 @@
 <br /><br /><br />
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/project-boilerplate-setup">ShaneLucy&#x2F;project-boilerplate-setup</a>
+<a href="https://github.com/ShaneLucy/ShaneLucy">ShaneLucy&#x2F;ShaneLucy</a>
 
 <br /><br /><br />
 
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 13 November, 12:14 GMT
+Last updated Saturday, 13 November, 14:23 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
