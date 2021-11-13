@@ -3,11 +3,12 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/1802/2018JanTLEtrails_HaitongYu.jpg"
-    alt=""
-    style="max-width: 100vw; max-height: 60vh"
+    src="https://images.unsplash.com/photo-1605900196967-c71a451a8085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzY4MjE1MTE&ixlib=rb-1.2.1&q=80&w=400&auto=format"
+    alt="brown wooden fence under starry night" 
   />
-  <figcaption>Bow Tie Moon and Star Trails from  <a href="https://apod.nasa.gov/apod/image/1802/2018JanTLEtrails_HaitongYu.jpg">https://apod.nasa.gov/apod/image/1802/2018JanTLEtrails_HaitongYu.jpg</a></figcaption>
+  <figcaption>Photo by <a
+    href="https://unsplash.com/@leonrwld?utm_source=Profile%20readme&utm_medium=referral">Leon Rohrwild</a> on <a
+    href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -48,7 +49,6 @@
 
 <hr />
 <h4>My Open Source Projects:</h4>
-
 <table>
   <thead>
     <tr>
@@ -182,12 +182,12 @@
 <br /><br /><br />
 <hr />
 <img
-  src="https://github-readme-stats.vercel.app/api?username=shanelucy&show_icons=true&bg_color=00000000"
+  src="https://github-readme-stats.vercel.app/api?username=shanelucy&show_icons=true&theme=calm"
 />
 <br /><br /><br />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanelucy&bg_color=00000000"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanelucy&theme=calm"
 />
 <br /><br /><br /><br />
 <hr />
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 13 November, 14:48 GMT
+Last updated Saturday, 13 November, 16:52 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
