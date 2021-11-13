@@ -15,3 +15,11 @@ jobs:
         with:
           ENDPOINT: https://api.unsplash.com/photos/random?query=nature,space
           CONFIGURATION: '{ "method": "GET", "headers": {"Authorization": "Client-ID ${{ secrets.UNSPLASH_API_TOKEN }}"} }'
+
+      - name: Push Changes 🚀
+            uses: JamesIves/github-pages-deploy-action@releases/v3
+            with:
+              ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+              BRANCH: master 
+              FOLDER: fetch-api-data-action
+              TARGET_FOLDER: random-photo 
