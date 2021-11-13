@@ -63,7 +63,7 @@ const getRepos = async () => {
         DATA.currentProject.url = x.html_url;
       }
 
-      return DATA.repos = {
+      return {
         name: x.name ? x.name : null,
         language: x.language ? x.language : "null",
         url: x.url ? x.html_url : "null",
@@ -76,7 +76,7 @@ const getRepos = async () => {
 };
 
 function generateReadMe() {
-   FS.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+  FS.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
     if (err) throw err;
     const output = MUSTACHE.render(data.toString(), DATA);
     FS.writeFileSync("README.md", output);
