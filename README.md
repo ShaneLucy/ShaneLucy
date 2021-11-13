@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/1306/venus_magellan_954.jpg"
+    src="https://apod.nasa.gov/apod/image/1802/2018JanTLEtrails_HaitongYu.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Venus&#39; Once Molten Surface from  <a href="https://apod.nasa.gov/apod/image/1306/venus_magellan_954.jpg">https://apod.nasa.gov/apod/image/1306/venus_magellan_954.jpg</a></figcaption>
+  <figcaption>Bow Tie Moon and Star Trails from  <a href="https://apod.nasa.gov/apod/image/1802/2018JanTLEtrails_HaitongYu.jpg">https://apod.nasa.gov/apod/image/1802/2018JanTLEtrails_HaitongYu.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 13 November, 14:47 GMT
+Last updated Saturday, 13 November, 14:48 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
