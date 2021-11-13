@@ -1,0 +1,17 @@
+name: Get Random Photo
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  random-photo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch API Data 📦
+        uses: JamesIves/fetch-api-data-action@releases/v1
+        with:
+          ENDPOINT: https://api.unsplash.com/photos/random?query=nature,space
+          CONFIGURATION: '{ "method": "GET", "headers": {"Authorization": "Client-ID ${{ secrets.UNSPLASH_API_TOKEN }}"} }'
