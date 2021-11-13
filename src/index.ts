@@ -7,7 +7,7 @@ import type { Data, Repo } from "./types";
 const MUSTACHE_MAIN_DIR = "./main.mustache";
 
 const DATA: Data = {
-  headerUrl: `${unsplashRes?.urls?.small}&auto=format`,
+  headerUrl: `${unsplashRes?.urls?.regular}&auto=format`,
   headerDesc: unsplashRes?.alt_description ?? "",
   headerPhotographerName: unsplashRes?.user?.name ?? "",
   headerPhotographerAttribution: `https://unsplash.com/@${unsplashRes?.user?.username}?utm_source=Profile%20readme&utm_medium=referral`,
