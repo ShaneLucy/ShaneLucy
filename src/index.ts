@@ -7,9 +7,10 @@ import type { Data, Repo } from "./types";
 const MUSTACHE_MAIN_DIR = "./main.mustache";
 
 const DATA: Data = {
-  headerUrl: "",
-  headerDesc: "",
-  headerError: "",
+  headerUrl: `${unsplashRes?.urls?.small}&auto=format`,
+  headerDesc: unsplashRes?.alt_description ?? "",
+  headerPhotographerName: unsplashRes?.user?.name ?? "",
+  headerPhotographerAttribution: `https://unsplash.com/@${unsplashRes?.user?.username}?utm_source=Profile%20readme&utm_medium=referral`,
   date: new Date().toLocaleDateString("en-GB", {
     weekday: "long",
     month: "long",
@@ -27,20 +28,6 @@ const DATA: Data = {
     id: "",
     error: "",
   },
-};
-console.log(unsplashRes);
-
-const getHeader = async () => {
-  try {
-    const RESPONSE = await axios.get(
-      `https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&count=1`
-    );
-
-    DATA.headerUrl = RESPONSE.data[0].hdurl;
-    DATA.headerDesc = RESPONSE.data[0].title;
-  } catch (error: any) {
-    DATA.headerError = error?.message;
-  }
 };
 
 const getCurrentProject = async () => {
@@ -84,10 +71,7 @@ function generateReadMe() {
 }
 
 const create = async () => {
-  await getHeader();
-
   await getCurrentProject();
-
   await getRepos();
 
   generateReadMe();

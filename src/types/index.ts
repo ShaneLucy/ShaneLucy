@@ -10,7 +10,8 @@ export interface Repo {
 export interface Data {
   headerUrl: string;
   headerDesc: string;
-  headerError: string;
+  headerPhotographerName: string;
+  headerPhotographerAttribution: string;
   date: string;
   repos: Array<Repo>;
   repoError: string;
