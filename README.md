@@ -3,7 +3,7 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1605900196967-c71a451a8085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzY4MjE1MTE&ixlib=rb-1.2.1&q=80&w=400&auto=format"
+    src="https://images.unsplash.com/photo-1605900196967-c71a451a8085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzY4MjE1MTE&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
     alt="brown wooden fence under starry night" 
   />
   <figcaption>Photo by <a
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 13 November, 16:52 GMT
+Last updated Saturday, 13 November, 16:59 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
