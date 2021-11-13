@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/1603/PIA20349_fig1.jpg"
+    src="https://apod.nasa.gov/apod/image/CygnusLoop_hst.gif"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>3D Ahuna Mons from  <a href="https://apod.nasa.gov/apod/image/1603/PIA20349_fig1.jpg">https://apod.nasa.gov/apod/image/1603/PIA20349_fig1.jpg</a></figcaption>
+  <figcaption>Cygnus Loop Supernova Shockwave from  <a href="https://apod.nasa.gov/apod/image/CygnusLoop_hst.gif">https://apod.nasa.gov/apod/image/CygnusLoop_hst.gif</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 13 November, 14:43 GMT
+Last updated Saturday, 13 November, 14:44 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
