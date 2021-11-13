@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/hyakutake_rosat_big.gif"
+    src="https://apod.nasa.gov/apod/image/1207/volcano_stefnisson_orig_960.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Unexpected X-rays from Comet Hyakutake from  <a href="https://apod.nasa.gov/apod/image/hyakutake_rosat_big.gif">https://apod.nasa.gov/apod/image/hyakutake_rosat_big.gif</a></figcaption>
+  <figcaption>Ash and Lightning Above an Icelandic Volcano from  <a href="https://apod.nasa.gov/apod/image/1207/volcano_stefnisson_orig_960.jpg">https://apod.nasa.gov/apod/image/1207/volcano_stefnisson_orig_960.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 13 November, 14:45 GMT
+Last updated Saturday, 13 November, 14:46 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
