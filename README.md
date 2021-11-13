@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://apod.nasa.gov/apod/image/1207/volcano_stefnisson_orig_960.jpg"
+    src="https://apod.nasa.gov/apod/image/1306/venus_magellan_954.jpg"
     alt=""
     style="max-width: 100vw; max-height: 60vh"
   />
-  <figcaption>Ash and Lightning Above an Icelandic Volcano from  <a href="https://apod.nasa.gov/apod/image/1207/volcano_stefnisson_orig_960.jpg">https://apod.nasa.gov/apod/image/1207/volcano_stefnisson_orig_960.jpg</a></figcaption>
+  <figcaption>Venus&#39; Once Molten Surface from  <a href="https://apod.nasa.gov/apod/image/1306/venus_magellan_954.jpg">https://apod.nasa.gov/apod/image/1306/venus_magellan_954.jpg</a></figcaption>
 </figure>
 
 <h4>Technologies I use:</h4>
@@ -198,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 13 November, 14:46 GMT
+Last updated Saturday, 13 November, 14:47 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
