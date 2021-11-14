@@ -11,7 +11,7 @@ jobs:
       - name: Fetch API Data 📦
         uses: JamesIves/fetch-api-data-action@releases/v1
         with:
-          ENDPOINT: https://api.unsplash.com/photos/random?query=nature,space
+          ENDPOINT: https://api.unsplash.com/photos/random?query=nature,space&orientation=landscape
           CONFIGURATION: '{ "method": "GET", "headers": {"Authorization": "Client-ID ${{ secrets.UNSPLASH_API_TOKEN }}"} }'
 
       - name: Push Changes 🚀
