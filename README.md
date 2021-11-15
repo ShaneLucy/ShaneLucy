@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1465101162946-4377e57745c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzY4OTI0Mzc&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="The stars and galaxy as seen from Rocky Mountain National Park." 
+    src="https://images.unsplash.com/photo-1581023550913-8b703699ce60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2MzY5MzcxMDM&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="full moon in the sky" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@jeremythomasphoto?utm_source=Profile%20readme&utm_medium=referral">Jeremy Thomas</a> on <a
+    href="https://unsplash.com/@tommyluvi?utm_source=Profile%20readme&utm_medium=referral">Tommy Lucena Villar</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -67,7 +67,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/ShaneLucy/Configurations">Configurations</a>
+        <a href="https://github.com/ShaneLucy/configurations">configurations</a>
       </td>
       <td>HTML</td>
       <td>My configurations and dotfiles</td>
@@ -158,13 +158,6 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/ShaneLucy/to-do-list">to-do-list</a>
-      </td>
-      <td>PHP</td>
-      <td>A simple, private by default to do list web app</td>
-    </tr>
-    <tr>
-      <td>
         <a href="https://github.com/ShaneLucy/TriviaGame">TriviaGame</a>
       </td>
       <td>Python</td>
@@ -198,7 +191,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 14 November, 13:19 GMT
+Last updated Monday, 15 November, 01:57 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
