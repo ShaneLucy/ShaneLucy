@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1492163148558-d6d8a9fb50c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Mzg0MDYwMjQ&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="shallow focus photo of purple flower field" 
+    src="https://images.unsplash.com/photo-1547234935-80c7145ec969?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Mzg0NDc3Mjc&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="mountains under white clouds at daytime" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@iranskids?utm_source=Profile%20readme&utm_medium=referral">Mohammad Amiri</a> on <a
+    href="https://unsplash.com/@yuli_superson?utm_source=Profile%20readme&utm_medium=referral">Juli Kosolapova</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -58,6 +58,13 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/ShaneLucy/advent-of-code">advent-of-code</a>
+      </td>
+      <td>null</td>
+      <td>null</td>
+    </tr>
     <tr>
       <td>
         <a href="https://github.com/ShaneLucy/Clash-Royale-Clan-Tracker">Clash-Royale-Clan-Tracker</a>
@@ -191,7 +198,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 2 December, 01:59 GMT
+Last updated Thursday, 2 December, 13:21 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
