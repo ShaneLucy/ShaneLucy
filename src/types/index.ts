@@ -13,7 +13,6 @@ export interface Data {
   headerPhotographerName: string;
   headerPhotographerAttribution: string;
   date: string;
-  repos: Array<Repo>;
   repoError: string;
   currentProject: {
     name: string;
@@ -21,4 +20,33 @@ export interface Data {
     id: string;
     error: string;
   };
+}
+
+export interface Event {
+  id: number;
+  type: string;
+  actor: {
+    id: number;
+    login: string;
+    display_login: string;
+    gravatar_id: string;
+    url: string;
+    avatar_url: string;
+  };
+  repo: {
+    id: string;
+    name: string;
+    url: string;
+  };
+  payload: {
+    push_id: number;
+    size: number;
+    distinct_size: number;
+    ref: string;
+    head: string;
+    before: string;
+    commits: Array<any>;
+  };
+  public: boolean;
+  created_at: string;
 }

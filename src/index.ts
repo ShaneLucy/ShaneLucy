@@ -2,7 +2,7 @@ import axios from "axios";
 import mustache from "mustache";
 import { readFile, writeFileSync } from "fs";
 import { default as unsplashRes } from "../random-photo/data.json";
-import type { Data, Repo } from "./types";
+import type { Data, Repo, Event } from "./types";
 
 const MUSTACHE_MAIN_DIR = "./main.mustache";
 
@@ -20,7 +20,6 @@ const DATA: Data = {
     timeZoneName: "short",
     timeZone: "Europe/London",
   }),
-  repos: [],
   repoError: "",
   currentProject: {
     name: "",
@@ -34,28 +33,23 @@ const getCurrentProject = async () => {
   try {
     const RESPONSE = await axios.get(`https://api.github.com/users/shanelucy/events`);
 
-    DATA.currentProject.name = RESPONSE.data[0].repo.name;
-    DATA.currentProject.id = RESPONSE.data[0].repo.id;
+    const CURRENT_PROJECT: Event = RESPONSE.data.find(
+      (element: Event) => element.repo.name !== "ShaneLucy/ShaneLucy"
+    );
+
+    [, DATA.currentProject.name] = CURRENT_PROJECT.repo.name.split("ShaneLucy/");
+    DATA.currentProject.id = CURRENT_PROJECT.repo.id;
   } catch (error: any) {
     DATA.currentProject.error = error?.message;
   }
-};
 
-const getRepos = async () => {
   try {
     const RESPONSE = await axios.get(`https://api.github.com/users/shanelucy/repos`);
 
-    DATA.repos = RESPONSE.data.map((repo: Repo) => {
+    RESPONSE.data.forEach((repo: Repo) => {
       if (repo.id === DATA.currentProject.id) {
         DATA.currentProject.url = repo.html_url;
       }
-
-      return {
-        name: repo.name ? repo.name : "null",
-        language: repo.language ? repo.language : "null",
-        url: repo.url ? repo.html_url : "null",
-        description: repo.description ? repo.description : "null",
-      };
     });
   } catch (error: any) {
     DATA.repoError = error?.message;
@@ -72,7 +66,6 @@ function generateReadMe() {
 
 const create = async () => {
   await getCurrentProject();
-  await getRepos();
 
   generateReadMe();
 };
