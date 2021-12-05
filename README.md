@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1606829768912-a0a6873a6535?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Mzg2NjU0NDY&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="red and white fireworks display" 
+    src="https://images.unsplash.com/photo-1487111094912-921182c44b79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Mzg3MDY4Nzk&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="dark blue skies with stars" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@woblack?utm_source=Profile%20readme&utm_medium=referral">Lucie Hůrková</a> on <a
+    href="https://unsplash.com/@abrkett?utm_source=Profile%20readme&utm_medium=referral">Adam Birkett</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 5 December, 02:06 GMT
+Last updated Sunday, 5 December, 13:20 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
