@@ -3,18 +3,18 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1497294815431-9365093b7331?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Mzg3OTMzNjY&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="rock mountain during starry night" 
+    src="https://images.unsplash.com/photo-1494537176433-7a3c4ef2046f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Mzg4MzgxNjY&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="green leaf with white card" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@hellocolor?utm_source=Profile%20readme&utm_medium=referral">Pawel Nolbert</a> on <a
+    href="https://unsplash.com/@imperiumnordique?utm_source=Profile%20readme&utm_medium=referral">Helena Hertz</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
 
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/advent-of-code">advent-of-code</a>
+<a href="https://github.com/ShaneLucy/project-boilerplate-setup">project-boilerplate-setup</a>
 
 <br /><br /><br />
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 6 December, 13:23 GMT
+Last updated Tuesday, 7 December, 02:05 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
