@@ -3,18 +3,18 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1568643365365-1673584e5ab7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Mzk1MjkyNTI&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="aerial photo of mountain" 
+    src="https://images.unsplash.com/photo-1609436472305-390a875d3b06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Mzk1NzA5NTc&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="cars parked on parking lot during night time" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@trollinho?utm_source=Profile%20readme&utm_medium=referral">Trollinho</a> on <a
+    href="https://unsplash.com/@macehudson?utm_source=Profile%20readme&utm_medium=referral">Mary Grace Hudson</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
 
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/portfolio">portfolio</a>
+<a href=""></a>
 
 <br /><br /><br />
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 15 December, 02:01 GMT
+Last updated Wednesday, 15 December, 13:22 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
