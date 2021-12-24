@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1465101162946-4377e57745c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDAyNjIyMjA&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="The stars and galaxy as seen from Rocky Mountain National Park." 
+    src="https://images.unsplash.com/photo-1448908828366-ae00562d5fde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDAzMDY5MDM&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="white flowers on field" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@jeremythomasphoto?utm_source=Profile%20readme&utm_medium=referral">Jeremy Thomas</a> on <a
+    href="https://unsplash.com/@nlo_nata?utm_source=Profile%20readme&utm_medium=referral">Natasha Vasiljeva</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 23 December, 13:23 GMT
+Last updated Friday, 24 December, 02:03 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
