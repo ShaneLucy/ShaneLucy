@@ -14,7 +14,7 @@
 
 <hr />
 <h4>I am currently working on:</h4>
-<a href=""></a>
+<a href="https://github.com/ShaneLucy/portfolio">portfolio</a>
 
 <br /><br /><br />
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 7 January, 13:24 GMT
+Last updated Friday, 7 January, 21:26 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
