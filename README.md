@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1635258865689-f31b8b1fc72c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDE2NDQ1NDY&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="" 
+    src="https://images.unsplash.com/photo-1509529711801-deac231925ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDE2ODk1NzI&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="man standing beside the body of water with Aurora lights in the sky" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@david_docil?utm_source=Profile%20readme&utm_medium=referral">David Docil</a> on <a
+    href="https://unsplash.com/@joshuaearle?utm_source=Profile%20readme&utm_medium=referral">Joshua Earle</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 8 January, 13:22 GMT
+Last updated Sunday, 9 January, 02:10 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
