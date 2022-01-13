@@ -3,18 +3,18 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1578627605964-8dda0e6508c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDE5OTAyNTU&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="" 
+    src="https://images.unsplash.com/photo-1605812911011-7fdfff97d762?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDIwMzUyMDQ&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="black metal gate near concrete wall" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@kajhinkson?utm_source=Profile%20readme&utm_medium=referral">Kyle Hinkson</a> on <a
+    href="https://unsplash.com/@nampoh?utm_source=Profile%20readme&utm_medium=referral">Maxim Hopman</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
 
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/http-security-headers">http-security-headers</a>
+<a href="https://github.com/ShaneLucy/portfolio">portfolio</a>
 
 <br /><br /><br />
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 12 January, 13:24 GMT
+Last updated Thursday, 13 January, 02:09 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
