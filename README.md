@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1548625361-58a9b86aa83b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDU1Nzc5NjQ&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="Aurora phenomenon" 
+    src="https://images.unsplash.com/photo-1613025801198-24e7a4616265?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDU2MTkwMzI&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="silhouette of man and woman under starry night" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@cosmictimetraveler?utm_source=Profile%20readme&utm_medium=referral">Cosmic Timetraveler</a> on <a
+    href="https://unsplash.com/@autoro?utm_source=Profile%20readme&utm_medium=referral">Egor Yakushkin</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 23 February, 02:07 GMT
+Last updated Wednesday, 23 February, 13:19 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
