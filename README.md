@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1588644448533-4efbc96e3a8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDU1MzI2OTI&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="full moon in black background" 
+    src="https://images.unsplash.com/photo-1548625361-58a9b86aa83b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NDU1Nzc5NjQ&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="Aurora phenomenon" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@backyardastronomyguy?utm_source=Profile%20readme&utm_medium=referral">Marty McGuire</a> on <a
+    href="https://unsplash.com/@cosmictimetraveler?utm_source=Profile%20readme&utm_medium=referral">Cosmic Timetraveler</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 22 February, 13:19 GMT
+Last updated Wednesday, 23 February, 02:07 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
