@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1602488376725-42d2e20c9d24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTY1OTIzNTM&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="green mountains beside body of water under white sky during daytime" 
+    src="https://images.unsplash.com/photo-1606829768912-a0a6873a6535?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTY2Mzk3NzI&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="red and white fireworks display" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@kmitchhodge?utm_source=Profile%20readme&utm_medium=referral">K. Mitch Hodge</a> on <a
+    href="https://unsplash.com/@woblack?utm_source=Profile%20readme&utm_medium=referral">Lucie Hůrková</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 30 June, 14:36 BST
+Last updated Friday, 1 July, 04:27 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
