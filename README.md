@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1431440869543-efaf3388c585?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjI3MjY3ODI&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="photography of lightning storm" 
+    src="https://images.unsplash.com/photo-1630674892902-13307a0f7410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjI3NzQ0NTk&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="white and gray maple leaf on green grass field" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@brenomachado?utm_source=Profile%20readme&utm_medium=referral">Breno Machado</a> on <a
+    href="https://unsplash.com/@davenotfound?utm_source=Profile%20readme&utm_medium=referral">dave🌿notfound</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 9 September at 14:47 BST
+Last updated Saturday, 10 September at 04:37 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
