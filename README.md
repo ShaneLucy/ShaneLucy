@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1596204970778-974ee51f2b85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjQ0NTQ5NTI&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="clear glass ball with water droplets" 
+    src="https://images.unsplash.com/photo-1610130674819-99e0ff4a20f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjQ1MDM4NTc&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@raf_ayel?utm_source=Profile%20readme&utm_medium=referral">Rafayel Yeranosyan</a> on <a
+    href="https://unsplash.com/@akshat_kumar?utm_source=Profile%20readme&utm_medium=referral">Akshat Kumar</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 29 September at 14:52 BST
+Last updated Friday, 30 September at 04:57 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
