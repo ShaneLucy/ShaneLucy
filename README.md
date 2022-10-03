@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1463780324318-d1a8ddc05a11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjQ3MTQwMDY&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
-    alt="pine trees covered with snow under starry sky" 
+    src="https://images.unsplash.com/photo-1629826717237-418604267daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjQ3NjEwMzk&ixlib=rb-1.2.1&q=80&w=1080&auto=format"
+    alt="brown rock formation on blue sea under blue sky during daytime" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@aleviaro?utm_source=Profile%20readme&utm_medium=referral">Alessandro Viaro</a> on <a
+    href="https://unsplash.com/@dennis_tm?utm_source=Profile%20readme&utm_medium=referral">Dennis Mita</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 2 October at 14:38 BST
+Last updated Monday, 3 October at 04:02 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
