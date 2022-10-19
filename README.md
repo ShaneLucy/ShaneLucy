@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1611625594610-8b7ddee674e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjYxNDQwNjU&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="bare trees on green grass field under blue sky during daytime" 
+    src="https://images.unsplash.com/photo-1621804298968-5fc664947fd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjYxODMxNTU&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="silhouette of mountains during sunset" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@mariagrklens?utm_source=Profile%20readme&utm_medium=referral">Maria Thalassinou</a> on <a
+    href="https://unsplash.com/@nathanael240606?utm_source=Profile%20readme&utm_medium=referral">Nathanaël Desmeules</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 19 October at 04:41 BST
+Last updated Wednesday, 19 October at 14:57 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
