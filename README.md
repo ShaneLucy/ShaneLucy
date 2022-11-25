@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1451186242394-2b461812025b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjkyOTI5NDc&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="brown textile" 
+    src="https://images.unsplash.com/photo-1500261940006-86bb61e51e52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NjkzMzg3MTQ&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="person holding book" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@nasa?utm_source=Profile%20readme&utm_medium=referral">NASA</a> on <a
+    href="https://unsplash.com/@katya?utm_source=Profile%20readme&utm_medium=referral">Katya Ross</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 24 November at 13:27 GMT
+Last updated Friday, 25 November at 02:36 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
