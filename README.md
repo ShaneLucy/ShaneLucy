@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1504192010706-dd7f569ee2be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzA4MDczNDI&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="digital wallpaper of eclipse" 
+    src="https://images.unsplash.com/photo-1503389152951-9f343605f61e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzA4NDgwMTk&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="white mountain during nighttime" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@tyvdh?utm_source=Profile%20readme&utm_medium=referral">Tyler van der Hoeven</a> on <a
+    href="https://unsplash.com/@eberhardgross?utm_source=Profile%20readme&utm_medium=referral">eberhard 🖐 grossgasteiger</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 12 December at 02:20 GMT
+Last updated Monday, 12 December at 13:23 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
