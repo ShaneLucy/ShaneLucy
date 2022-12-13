@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1518938684089-e414852c763c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzA4OTM5MTE&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="Space Needle under clear sky" 
+    src="https://images.unsplash.com/photo-1514064019862-23e2a332a6a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzA5MzQ0MDc&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="assorted leaves on black textile" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@paulminami?utm_source=Profile%20readme&utm_medium=referral">Paul Minami</a> on <a
+    href="https://unsplash.com/@erol?utm_source=Profile%20readme&utm_medium=referral">Erol Ahmed</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 13 December at 02:25 GMT
+Last updated Tuesday, 13 December at 13:23 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
