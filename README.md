@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1649200517334-078dc7582f63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzE1MzkxMDc&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="" 
+    src="https://images.unsplash.com/photo-1428094479093-8973a318bd76?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzE1ODQ0ODg&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="aurora borealis" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@luu_las?utm_source=Profile%20readme&utm_medium=referral">𝓛𝓾𝓾 𝓛𝓪𝓼̌𝓴𝓪𝓿𝓮𝓷𝓴𝓸🖤🥀</a> on <a
+    href="https://unsplash.com/@forrestcavale?utm_source=Profile%20readme&utm_medium=referral">FORREST CAVALE</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 20 December at 13:19 GMT
+Last updated Wednesday, 21 December at 02:09 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
