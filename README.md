@@ -3,18 +3,18 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1502298771545-937cd94b0f48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzE2NzEwOTc&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="landscape photography of river leading to mountain" 
+    src="https://images.unsplash.com/photo-1639980473038-82cf8e1ea142?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzE3MTE5MTE&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@kylejglenn?utm_source=Profile%20readme&utm_medium=referral">Kyle Glenn</a> on <a
+    href="https://unsplash.com/@janbehnisch?utm_source=Profile%20readme&utm_medium=referral">Jan Behnisch</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
 
 <hr />
 <h4>I am currently working on:</h4>
-<a href="https://github.com/ShaneLucy/pretty-good-playground-api">pretty-good-playground-api</a>
+<a href=""></a>
 
 <br /><br /><br />
 
@@ -36,7 +36,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 22 December at 02:12 GMT
+Last updated Thursday, 22 December at 13:20 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
