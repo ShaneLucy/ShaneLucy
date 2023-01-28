@@ -12,11 +12,14 @@
 </figure>
 
 
-<hr />
-<h4>I am currently working on:</h4>
-<a href="{{{currentProject.url}}}">{{currentProject.name}}</a>
 
-<br /><br /><br />
+
+{{#currentProject.url}}
+  <hr />
+  <h4>I am currently working on:</h4>
+  <a href="{{{currentProject.url}}}">{{currentProject.name}}</a>
+{{/currentProject.url}}
+  <br /><br /><br />
 
 <hr />
 <img

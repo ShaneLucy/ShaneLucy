@@ -12,11 +12,9 @@
 </figure>
 
 
-<hr />
-<h4>I am currently working on:</h4>
-<a href=""></a>
 
-<br /><br /><br />
+
+  <br /><br /><br />
 
 <hr />
 <img
@@ -36,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Saturday, 28 January at 13:18 GMT
+Last updated Saturday, 28 January at 16:23 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"

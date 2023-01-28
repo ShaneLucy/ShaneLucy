@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/ShaneLucy/ShaneLucy#readme",
   "dependencies": {
-    "axios": "^0.21.1",
-    "mustache": "^4.1.0"
+    "axios": "^1.2.5",
+    "mustache": "^4.2.0"
   },
   "devDependencies": {
     "ts-node": "^10.4.0",
