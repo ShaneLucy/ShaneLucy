@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1503416997304-7f8bf166c121?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODMxMTY2NTE&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="total lunar eclipse" 
+    src="https://images.unsplash.com/photo-1465101162946-4377e57745c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODMxNjIxMTc&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="The stars and galaxy as seen from Rocky Mountain National Park." 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@tegethoff?utm_source=Profile%20readme&utm_medium=referral">Mark Tegethoff</a> on <a
+    href="https://unsplash.com/@jeremythomasphoto?utm_source=Profile%20readme&utm_medium=referral">Jeremy Thomas</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 3 May at 14:16 BST
+Last updated Thursday, 4 May at 03:01 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
