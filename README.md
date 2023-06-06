@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 5 June at 14:17 BST
+Last updated Tuesday, 6 June at 03:26 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
