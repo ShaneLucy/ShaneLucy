@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1484950763426-56b5bf172dbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODkzMzc2NDV8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="silhouette of off-road car" 
+    src="https://images.unsplash.com/photo-1454496522488-7a8e488e8606?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODkzODM5Njh8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="aerial photography of mountain range covered with snow under white and blue sky at daytime" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@r3dmax?utm_source=Profile%20readme&utm_medium=referral">Jonatan Pie</a> on <a
+    href="https://unsplash.com/@sepoys?utm_source=Profile%20readme&utm_medium=referral">Rohit Tandon</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 14 July at 14:22 BST
+Last updated Saturday, 15 July at 03:35 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
