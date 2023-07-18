@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1600686067402-995d22a7aabc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODk1OTY5ODN8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="full moon in the sky" 
+    src="https://images.unsplash.com/photo-1611625594610-8b7ddee674e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2ODk2NDQ0ODZ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="bare trees on green grass field under blue sky during daytime" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@hisham_zayadneh?utm_source=Profile%20readme&utm_medium=referral">Hisham Zayadneh</a> on <a
+    href="https://unsplash.com/@mariagrklens?utm_source=Profile%20readme&utm_medium=referral">Maria Thalassinou</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Monday, 17 July at 14:25 BST
+Last updated Tuesday, 18 July at 03:36 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
