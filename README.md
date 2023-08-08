@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1483728642387-6c3bdd6c93e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTE0NTY0Nzl8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="snowy mountain" 
+    src="https://images.unsplash.com/photo-1494537176433-7a3c4ef2046f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTE0OTc0MTZ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="green leaf with white card" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@danielleone?utm_source=Profile%20readme&utm_medium=referral">Daniel Leone</a> on <a
+    href="https://unsplash.com/@imperiumnordique?utm_source=Profile%20readme&utm_medium=referral">Helena Hertz</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 8 August at 03:00 BST
+Last updated Tuesday, 8 August at 14:16 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
