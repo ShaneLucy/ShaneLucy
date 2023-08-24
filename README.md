@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1635258865689-f31b8b1fc72c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTI3OTMzNDN8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="a view of the night sky with stars" 
+    src="https://images.unsplash.com/photo-1655916794915-c45eee848cb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTI4MzgzMjN8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="a landscape with hills and trees" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@david_docil?utm_source=Profile%20readme&utm_medium=referral">David Docil</a> on <a
+    href="https://unsplash.com/@_dillongroves?utm_source=Profile%20readme&utm_medium=referral">Dillon Groves</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 23 August at 14:15 BST
+Last updated Thursday, 24 August at 02:43 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
