@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1597910037242-3539dde9a439?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTI4Nzk3Mzd8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="brown rock formation on white sand beach during daytime" 
+    src="https://images.unsplash.com/photo-1502790671504-542ad42d5189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTI5MjQ3ODl8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="brown mountains under blue sky" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@sammoghadamkhamseh?utm_source=Profile%20readme&utm_medium=referral">Sam Moghadam Khamseh</a> on <a
+    href="https://unsplash.com/@mohamadaz?utm_source=Profile%20readme&utm_medium=referral">Mohammad Alizade</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 24 August at 14:15 BST
+Last updated Friday, 25 August at 02:48 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
