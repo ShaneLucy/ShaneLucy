@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1507372953381-f69d9aeac620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTMxMzg3ODZ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="trees covered with thick fog" 
+    src="https://images.unsplash.com/photo-1504115744733-85e946e6c323?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTMxODQwMzF8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="solar eclipse" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@8moments?utm_source=Profile%20readme&utm_medium=referral">Simon Berger</a> on <a
+    href="https://unsplash.com/@bryangoffphoto?utm_source=Profile%20readme&utm_medium=referral">Bryan Goff</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 27 August at 14:13 BST
+Last updated Monday, 28 August at 02:48 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
