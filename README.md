@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1511798616182-aab3698ac53e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTM1Mjk4MTB8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="brown rock formation" 
+    src="https://images.unsplash.com/photo-1548625361-58a9b86aa83b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTM1NzA5Mzh8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="Aurora phenomenon" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@wildhoney?utm_source=Profile%20readme&utm_medium=referral">John Fowler</a> on <a
+    href="https://unsplash.com/@cosmictimetraveler?utm_source=Profile%20readme&utm_medium=referral">Cosmic Timetraveler</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 1 September at 02:53 BST
+Last updated Friday, 1 September at 14:15 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
