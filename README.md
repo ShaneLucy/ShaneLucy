@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1492163148558-d6d8a9fb50c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTM0ODQ1Njd8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="shallow focus photo of purple flower field" 
+    src="https://images.unsplash.com/photo-1511798616182-aab3698ac53e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTM1Mjk4MTB8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="brown rock formation" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@iranskids?utm_source=Profile%20readme&utm_medium=referral">Mohammad Amiri</a> on <a
+    href="https://unsplash.com/@wildhoney?utm_source=Profile%20readme&utm_medium=referral">John Fowler</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 31 August at 14:16 BST
+Last updated Friday, 1 September at 02:53 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
