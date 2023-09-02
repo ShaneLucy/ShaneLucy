@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1548625361-58a9b86aa83b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTM1NzA5Mzh8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="Aurora phenomenon" 
+    src="https://images.unsplash.com/photo-1466853817435-05b43fe45b39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTM2MTU4ODZ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="silhouette of mountain beside the body of water at night time" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@cosmictimetraveler?utm_source=Profile%20readme&utm_medium=referral">Cosmic Timetraveler</a> on <a
+    href="https://unsplash.com/@cikstefan?utm_source=Profile%20readme&utm_medium=referral">Štefan Štefančík</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Friday, 1 September at 14:15 BST
+Last updated Saturday, 2 September at 02:42 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
