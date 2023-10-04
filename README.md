@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1523838432652-7367674c446b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTYzODA5MTZ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="green grass and trees" 
+    src="https://images.unsplash.com/photo-1611625594610-8b7ddee674e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTY0MjIyNzd8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="bare trees on green grass field under blue sky during daytime" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@judowoodo_?utm_source=Profile%20readme&utm_medium=referral">Jude Infantini</a> on <a
+    href="https://unsplash.com/@mariagrklens?utm_source=Profile%20readme&utm_medium=referral">Maria Thalassinou</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 4 October at 02:51 BST
+Last updated Wednesday, 4 October at 14:17 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
