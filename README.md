@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1572270907014-c31da1c54124?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTcwMjcwNTd8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="gray half moon" 
+    src="https://images.unsplash.com/photo-1596204970778-974ee51f2b85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTcwNzE5NjB8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="clear glass ball with water droplets" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@charliebcn?utm_source=Profile%20readme&utm_medium=referral">Carlos Vega</a> on <a
+    href="https://unsplash.com/@raf_ayel?utm_source=Profile%20readme&utm_medium=referral">Rafayel Yeranosyan</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 11 October at 14:18 BST
+Last updated Thursday, 12 October at 02:47 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
