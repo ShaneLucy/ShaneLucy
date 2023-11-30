@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1466853817435-05b43fe45b39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDEyNjA2NDV8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="silhouette of mountain beside the body of water at night time" 
+    src="https://images.unsplash.com/photo-1615237919844-eb539ad64666?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDEzMDU4NTJ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="blue sky with stars during night time" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@cikstefan?utm_source=Profile%20readme&utm_medium=referral">Štefan Štefančík</a> on <a
+    href="https://unsplash.com/@sid_suratia?utm_source=Profile%20readme&utm_medium=referral">Sid Suratia</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 29 November at 13:17 GMT
+Last updated Thursday, 30 November at 01:55 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
