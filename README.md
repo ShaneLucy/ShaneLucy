@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1559657693-e816ff3bd9af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDE2MDYxMTZ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="planet illustration" 
+    src="https://images.unsplash.com/photo-1494253188410-ff0cdea5499e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDE2NTE0OTZ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="snow covered brown mountain" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@zenz?utm_source=Profile%20readme&utm_medium=referral">Vincenzo Malagoli</a> on <a
+    href="https://unsplash.com/@martinjernberg?utm_source=Profile%20readme&utm_medium=referral">Martin Jernberg</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 3 December at 13:14 GMT
+Last updated Monday, 4 December at 01:56 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
