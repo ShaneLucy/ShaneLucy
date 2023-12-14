@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1451188502541-13943edb6acb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDI1MTU0MzN8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="a large crater in the middle of a desert" 
+    src="https://images.unsplash.com/photo-1466853817435-05b43fe45b39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDI1NTY2MzZ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="silhouette of mountain beside the body of water at night time" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@nasa?utm_source=Profile%20readme&utm_medium=referral">NASA</a> on <a
+    href="https://unsplash.com/@cikstefan?utm_source=Profile%20readme&utm_medium=referral">Štefan Štefančík</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday, 14 December at 01:54 GMT
+Last updated Thursday, 14 December at 13:17 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
