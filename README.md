@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1675679620439-bacfc67a669a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDM5ODQ0Njh8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="a full moon rising over a forest at night" 
+    src="https://images.unsplash.com/photo-1703088996593-39768a77fb82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDQwMjUyOTJ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="a half moon is seen in the dark sky" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@imac666?utm_source=Profile%20readme&utm_medium=referral">Maciek Sulkowski</a> on <a
+    href="https://unsplash.com/@hdbernd?utm_source=Profile%20readme&utm_medium=referral">Bernd 📷 Dittrich</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Sunday, 31 December at 01:57 GMT
+Last updated Sunday, 31 December at 13:14 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
