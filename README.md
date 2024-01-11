@@ -3,17 +3,20 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1483347756197-71ef80e95f73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDQ4ODk0NTR8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="silhouette of trees near Aurora Borealis at night" 
+    src="https://images.unsplash.com/photo-1568473648251-3a0c3aa56192?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDQ5MzQ3MzJ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="red space clouds and stars" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@vingtcent?utm_source=Profile%20readme&utm_medium=referral">Vincent Guth</a> on <a
+    href="https://unsplash.com/@lionel28?utm_source=Profile%20readme&utm_medium=referral">Lionel HESRY</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
 
 
 
+  <hr />
+  <h4>I am currently working on:</h4>
+  <a href="https://github.com/ShaneLucy/system-monitor">system-monitor</a>
   <br /><br /><br />
 
 <hr />
@@ -34,7 +37,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 10 January at 13:16 GMT
+Last updated Thursday, 11 January at 01:56 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
