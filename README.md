@@ -3,8 +3,8 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1451188502541-13943edb6acb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwMTI2NzN8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="a large crater in the middle of a desert" 
+    src="https://images.unsplash.com/photo-1462726625343-6a2ab0b9f020?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDYwNTc5ODZ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="Satellite image of river" 
   />
   <figcaption>Photo by <a
     href="https://unsplash.com/@nasa?utm_source=Profile%20readme&utm_medium=referral">NASA</a> on <a
@@ -37,7 +37,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Tuesday, 23 January at 13:17 GMT
+Last updated Wednesday, 24 January at 01:58 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
