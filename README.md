@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1477240381028-271008c7415c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTE1MDA4Nzl8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="brown mountains surrounded by body of water during daytime photography" 
+    src="https://images.unsplash.com/photo-1487621167305-5d248087c724?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTE1NDIxNzR8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="silhouette of trees covered by fog" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@krutainis?utm_source=Profile%20readme&utm_medium=referral">Ivars Krutainis</a> on <a
+    href="https://unsplash.com/@pueblovista?utm_source=Profile%20readme&utm_medium=referral">Paul Pastourmatzis</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday, 27 March at 01:49 GMT
+Last updated Wednesday, 27 March at 13:14 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
