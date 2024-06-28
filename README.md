@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1476673160081-cf065607f449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk0OTExODR8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="body of water during daytime" 
+    src="https://images.unsplash.com/photo-1493243350443-9e3048ce7288?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTk1MzY1MDN8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="body of water under red and white clouds" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@frankiefoto?utm_source=Profile%20readme&utm_medium=referral">frank mckenna</a> on <a
+    href="https://unsplash.com/@jplenio?utm_source=Profile%20readme&utm_medium=referral">Johannes Plenio</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday 27 June at 14:17 BST
+Last updated Friday 28 June at 03:00 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
