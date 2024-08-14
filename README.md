@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1532423622396-10a3f979251a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjM1OTc1MDZ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="landscape photography of gray mountain" 
+    src="https://images.unsplash.com/photo-1475598322381-f1b499717dda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjM2Mzg0NjJ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="lava dripping to ocean" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@eberhardgross?utm_source=Profile%20readme&utm_medium=referral">eberhard 🖐 grossgasteiger</a> on <a
+    href="https://unsplash.com/@ldandersen?utm_source=Profile%20readme&utm_medium=referral">Buzz Andersen</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday 14 August at 03:05 BST
+Last updated Wednesday 14 August at 14:19 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
