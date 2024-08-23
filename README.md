@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1488572749058-7f52dd70e0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQzMjk2NTZ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="two people standing in desert field during daytime" 
+    src="https://images.unsplash.com/photo-1518873890627-d4b177c06e51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQzNzUxMTJ8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="landscape photography of snowy mountain and body of water" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@keithhardy2001?utm_source=Profile%20readme&utm_medium=referral">Keith Hardy</a> on <a
+    href="https://unsplash.com/@theforestbirds?utm_source=Profile%20readme&utm_medium=referral">Joel &amp; Jasmin Førestbird</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday 22 August at 14:19 BST
+Last updated Friday 23 August at 03:05 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
