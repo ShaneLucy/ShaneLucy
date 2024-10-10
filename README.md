@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1545105366-5d6173ec720a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg0NzcwMjB8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="rock formations in ocean" 
+    src="https://images.unsplash.com/photo-1459666644539-a9755287d6b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjg1MjI2OTl8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="snow-covered mountains during daytime" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@jawis?utm_source=Profile%20readme&utm_medium=referral">Wai Siew</a> on <a
+    href="https://unsplash.com/@martinjernberg?utm_source=Profile%20readme&utm_medium=referral">Martin Jernberg</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday 9 October at 14:24 BST
+Last updated Thursday 10 October at 03:16 BST
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
