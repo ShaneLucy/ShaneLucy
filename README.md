@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM0MDIwMzF8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="forest trees" 
+    src="https://images.unsplash.com/photo-1508739773434-c26b3d09e071?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzM0NDc5MDF8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="brown rock formation under blue sky" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@szmigieldesign?utm_source=Profile%20readme&utm_medium=referral">Lukasz Szmigiel</a> on <a
+    href="https://unsplash.com/@cristina_gottardi?utm_source=Profile%20readme&utm_medium=referral">Cristina Gottardi</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Thursday 5 December at 13:28 GMT
+Last updated Friday 6 December at 02:25 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
