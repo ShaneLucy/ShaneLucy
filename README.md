@@ -3,11 +3,11 @@
 <br />
 <figure>
   <img
-    src="https://images.unsplash.com/photo-1541599468348-e96984315921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU2OTQzMTV8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
-    alt="an aerial view of a road in the middle of a river" 
+    src="https://images.unsplash.com/photo-1466854076813-4aa9ac0fc347?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyNzQ3MDB8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MzU3MzQ1OTB8&ixlib=rb-4.0.3&q=80&w=1080&auto=format"
+    alt="landscape photography of mountain ranges under purple and pink skies" 
   />
   <figcaption>Photo by <a
-    href="https://unsplash.com/@micki?utm_source=Profile%20readme&utm_medium=referral">Michelle Spollen</a> on <a
+    href="https://unsplash.com/@cikstefan?utm_source=Profile%20readme&utm_medium=referral">Štefan Štefančík</a> on <a
     href="https://unsplash.com/?utm_source=Profile%20readme&utm_medium=referral">Unsplash</a></figcaption>
 </figure>
 
@@ -34,7 +34,7 @@
   />
 </a>
 <br /><br /><br />
-Last updated Wednesday 1 January at 02:22 GMT
+Last updated Wednesday 1 January at 13:20 GMT
 <br />
 <img
   src="https://github.com/ShaneLucy/ShaneLucy/workflows/README%20build/badge.svg"
